@@ -31,6 +31,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
     <tr> <td>4/7/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>5/5/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>RNAP pause sites and Nanobody Design</td> </tr>
     <tr> <td>6/2/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>Structure of pre-miR-31 and Dicer Processing / Benchmarking DiffDock for Decoy Discrimination</td> </tr>
+    <tr> <td>7/7/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>COFACTOR and MetaGO algorithms for structure-based prediction of protein functions</td> </tr>
   </tbody>
 </table>    
   
