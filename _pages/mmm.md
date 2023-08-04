@@ -36,7 +36,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
  
   </tbody>
 </table>    
-  
+<BR><BR>  
 Meetings will be in the [Taubman Health Sciences Library](https://www.lib.umich.edu/locations-and-hours/taubman-health-sciences-library/) 1135 Catherine St Ann Arbor, MI 48109, and accessible via [Zoom](https://umich.zoom.us/j/98700994004)
   
 <BR><BR>
