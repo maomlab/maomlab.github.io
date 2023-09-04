@@ -34,7 +34,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
     <tr> <td>7/7/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>COFACTOR and MetaGO algorithms for structure-based prediction of protein functions</td> </tr>
     <tr> <td>8/4/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>Utilizing molecular modeling to investigate potential targets of a novel, selective antimitotic agent (Jessica Teitel)<br>The Structural Landscape of Human Alternative Splicing (Yuxuan Song) </td> </tr>
     <tr> <td>9/1/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>PerturbNet predicts single-cell responses to unseen
-chemical and genetic perturbations(Weizhou Qian)<br><a href="https://maomlab.github.io/molecule_nodes/">Tutorial on using MoleculeNodes</a> in Blender to illustrate protein structures (Matthew O'Meara)</td></tr>
+chemical and genetic perturbations(Weizhou Qian)<br><a href="https://maomlab.github.io/molecular_nodes/">Tutorial on using MoleculeNodes</a> in Blender to illustrate protein structures (Matthew O'Meara)</td></tr>
   </tbody>
 </table>    
 <BR><BR>  
