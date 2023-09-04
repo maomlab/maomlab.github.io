@@ -1,3 +1,11 @@
+---
+title: "Maom Lab - Molecular Nodes Tutorial"
+layout: homelay
+excerpt: "Tutorial for making high quality protein graphics"
+sitemap: false
+permalink: /molecular_nodes/
+---
+
 # Tutorial on MoleculeNodes for Illustrating Molecular Structure
 
 [Blender](https://www.blender.org/) is a professional-grade, opensource software for 3D computer graphics. [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/) an add-on for Blender to work with molecular structures e.g. from the Protein Databank. 
