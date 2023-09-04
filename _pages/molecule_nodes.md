@@ -35,6 +35,11 @@ I'm using Blender 3.6.2 on macbook, so if you're using a more recent version som
    2. An annoying thing is that its tricky to orient the camera as an obect. A way I found that is easier is to lock the camera to the view and then move the view around. To do this click the right `<` in the very upper right of the viewport, then select the `View` -> View Lock -> Lock Camera to View. You can uncheck this when you're done so you can go back to your scene.
    3. On a mac you can use two fingers to the view around. Hold down shift to pan.
 
+### Lighting
+   1. Add light `Add` -> `Light` then select `Point`, `Sun`, `Spot`, or `Area`.
+   2. E.g. to add an area light, scale it larger with `s`, and position it. Select the light then under the `Data` panel (Looks like green lighbulb), set the power and the color and other properties
+   3. Basic studio lighting has a main bright light source, and one or more back and/or fill lights of complementary colors. Blender Guru has a nice [How to Make Studio Lighting in Blender](https://youtu.be/5UCc3Z_-ibs) tutorial.
+
 ### Style the molecule
    1. Select the molecule.
    2. Select the `Geometry Nodes` from the toolbar. This is flowgraph style programming environment where each node is a function that takes input and has outputs can can be wired together. The first input is `Group Input` and the last output is `Group Output`.
@@ -42,3 +47,12 @@ I'm using Blender 3.6.2 on macbook, so if you're using a more recent version som
    4. Make cartoon style. Add node -> Molecular Nodes (bottom menu item) -> Style -> Cartoon. Place it near the `MOL_style_atoms_cycles` node.
    5. Add a wire from the Atoms otuput of `MOL_color_set_common` node to the `Atoms` input of the new `Cartoon` node.
    6. To have both atoms and cartoon, add a `Join Geometry` before the `Output Group` node and wire both `MOL_style_atoms_cycles` and `Cartoon` nodes into it.
+   7. Add `Molecular Nodes` -> `Selection` -> `Chain Selection`. Position it before the atoms and cartoon style objects. Select `Chain A` and pass feed the `Selection` into the cartoon node and the `Inverted` into the atoms node.
+   8. To set the colors, you can also e.g. the `Molecular Nodes` -> `Color` -> `Color by Chain` and feed it into the `MOL_color_set_common` node.
+
+### Materials
+   1. Objects have materials that determine how light interacts with it.
+   2. Click `Shading` from the toolbar.
+   3. To create a new shader, click the `New Material` icon (looks like a copy icon) from the shader panel. Give it a good name.
+   4. The default shader is the Principled BSDF and has a lot of sliders. The biggies are the `color`, `roughness`, and `subsurface scattering`. If you want it to be metalic then set the metallic slider.
+
