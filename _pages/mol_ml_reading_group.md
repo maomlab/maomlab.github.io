@@ -3,7 +3,7 @@ title: "Molecular ML Reading Group"
 layout: textlay
 excerpt: "Molecular ML Reading Group"
 sitemap: false
-permalink: /mmm/
+permalink: /mol_ml_reading_group/
 ---
 
 # Molecular ML Reading Group
@@ -17,7 +17,14 @@ Every-other-week series on Diffusion models
 
 <B> Please fill out the [poll to pick up-coming papers](https://forms.gle/b7pEY4aYrJ4RFdKe7): 
 
-<BR>
+### Next Meeting:
+
+* 9/27/2023 11 am EDT (UTC-4)
+* [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
+* (Google Calendar)[https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t]
+
+<br>
+<br>
 ### Introduction to Diffusion Models (9/13)
 Diffusion models is a Deep Learning architecture that has lead to breakthroughs in generating realistic structured data from images, text, and sound.
 Diffusion models have also been used to generate proteins and other biomolecular systems. In this first meeting, Nick gives an overview of the basics
@@ -33,8 +40,3 @@ Here are the
 
 * [Slides](https://docs.google.com/presentation/d/1mdrF-hdZnp1IH6wrDB69p9vmcVaYywGB/edit?usp=sharing&ouid=101024000819646318057&rtpof=true&sd=true)
 * [Video recording](https://www.youtube.com/watch?v=qtMRRVL4FYQ)
-
-### Next Meeting:
-
-* 9/27/2023 11 am EDT (UTC-4)
-* [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
