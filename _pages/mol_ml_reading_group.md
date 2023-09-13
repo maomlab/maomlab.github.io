@@ -7,9 +7,16 @@ permalink: /mol_ml_reading_group/
 ---
 
 # Molecular ML Reading Group
-The Molecular ML Reading Group aims to explore foundational and recent applications of machine learning models to modeling molecular system.
-The reading group is hosted by Rosetta Commons (https://www.rosettacommons.org/) and organized by Nick Randolph a PhD candidate in the
-Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu) and Matthew O'Meara an Assistant Professor at the University of Michigan (maom@umich.edu).
+
+The Molecular ML Reading Group aims to explore foundational and recent
+applications of machine learning models to modeling molecular system.
+The reading group is hosted by [Rosetta Commons](https://www.rosettacommons.org/)
+and organized by
+
+* Nick Randolph a PhD
+candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
+* Matthew O'Meara an Assistant Professor at the University of Michigan
+(maom@umich.edu).
 
 <BR><BR>
 ## Biomolecular Diffusion Models Series
