@@ -22,13 +22,35 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion models
 
-<B> Please fill out the [poll to pick up-coming papers](https://forms.gle/b7pEY4aYrJ4RFdKe7): 
+<B> Please fill out the [poll to pick up-coming papers](https://forms.gle/b7pEY4aYrJ4RFdKe7):</B> 
 
 ### Next Meeting:
 
-* 9/27/2023 11 am EDT (UTC-4)
+* 10/11/2023 11 am EDT (UTC-4)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+<br>
+<br>
+### FrameDiff (9/27)
+This week we dug into (Yim, et al., 2023) introducing FrameDiff, a new Diffusion model for protein backbone generation. In this work they
+develop the theory of diffusion/denoising machine learning over Remannian manifolds. As a key application they consider each backbone residue as
+a rigid frame similar to AlphaFold2. Since each frame has rotational and translational symmetry in 3D, the diffusion should be SE(3) equivariant.
+In contrast with RFDiffusion which directly predicts coordinates, in this work they use the stochastic differential equation / score matching
+version of diffusion/denoising developed in (Song, et al., 2021). In particular they work out the math for Brownian diffusion on this manifold.
+To test their model they train their model directly on a curated subset of the protein databank (unlike RFDiffusion which uses a pre-trained
+structure prediction module), and measure the designability, diversity, and novelty of FrameDiff generated backbones. While it was difficult for them
+to direclty compare with RFDiffusion because at the time RFDiffusion code was not yet released, it appears to be not quite as performant, but
+significantly faster and the model is only 1/4 the size.
+
+* **SE(3) diffusion model with application to protein backbone generation**
+Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola
+https://arxiv.org/abs/2302.02277
+
+Here are
+
+* [Introductory slides](https://docs.google.com/presentation/d/1xBAvqNyh20Xe3ePdGz4c3h50Iso00trZ/edit?usp=sharing&ouid=101024000819646318057&rtpof=true&sd=true)
+* [Video recording](https://youtu.be/S9F-ZBu8Fko?si=T_YGdaon_0rfc4dJ)
 
 <br>
 <br>
