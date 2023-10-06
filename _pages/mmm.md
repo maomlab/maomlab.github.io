@@ -35,7 +35,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
     <tr> <td>8/4/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>Utilizing molecular modeling to investigate potential targets of a novel, selective antimitotic agent (Jessica Teitel)<br>The Structural Landscape of Human Alternative Splicing (Yuxuan Song) </td> </tr>
     <tr> <td>9/1/2023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>PerturbNet predicts single-cell responses to unseen
 chemical and genetic perturbations(Weizhou Qian)<br><a href="https://maomlab.github.io/molecular_nodes/">Tutorial on using MoleculeNodes</a> in Blender to illustrate protein structures (Matthew O'Meara)</td></tr>
-    <tr> <td>10/162023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>Dynamics and AI guided molecular design<br>(Terra Sztain-Pedone)<br>Structural systems analysis predicts functionally relevant thermodynamically destabilizing phosphorylation in human cells(Jaie Woodard)</td></tr>
+    <tr> <td>10/162023&nbsp;&nbsp;</td> <td>5000 THSL&nbsp;&nbsp;</td>  <td>Dynamics and AI guided molecular design(Terra Sztain-Pedone)<br>Structural systems analysis predicts functionally relevant thermodynamically destabilizing phosphorylation in human cells(Jaie Woodard)</td></tr>
   </tbody>
 </table>    
 <BR><BR>  
