@@ -30,6 +30,26 @@ Every-other-week series on Diffusion models
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+
+<br>
+<br>
+### RoseTTAFold All-Atom (9/27)
+This week we Rohith Krishna, a graduate student in the Baker Lab at UW, joins us to present RoseTTAFold All-Atom (Krishna, et al., 2023).
+This work generalizes the RoseTTA Fold "three-track architecture" to handle non-protein molecules. They then use this
+for a range of different applications including re-training RFDiffusion to enable predicting ligand and cofactor binding.
+
+
+* **Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**
+Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker
+doi: https://doi.org/10.1101/2023.10.09.561603
+
+* **SE(3) diffusion model with application to protein backbone generation**
+Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola
+https://arxiv.org/abs/2302.02277
+
+Here is the
+* [Video recording](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
+
 <br>
 <br>
 ### FrameDiff (9/27)
