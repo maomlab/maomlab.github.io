@@ -43,10 +43,6 @@ for a range of different applications including re-training RFDiffusion to enabl
 Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker
 doi: https://doi.org/10.1101/2023.10.09.561603
 
-* **SE(3) diffusion model with application to protein backbone generation**
-Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola
-https://arxiv.org/abs/2302.02277
-
 Here is the
 * [Video recording](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
 
