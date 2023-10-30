@@ -29,7 +29,7 @@ Every-other-week series on Diffusion models
 * 11/8/2023 10 am EDT (UTC-4)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* We'll discuss FolFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
+* We'll discuss FoldFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
 
 
 
