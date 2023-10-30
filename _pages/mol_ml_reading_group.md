@@ -39,9 +39,9 @@ This work generalizes the RoseTTA Fold "three-track architecture" to handle non-
 for a range of different applications including re-training RFDiffusion to enable predicting ligand and cofactor binding.
 
 
-* **Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**
+* **[Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom](https://doi.org/10.1101/2023.10.09.561603)**
 Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Minkyung Baek, Frank DiMaio, David Baker
-doi: https://doi.org/10.1101/2023.10.09.561603
+DOI: 10.1101/2023.10.09.561603
 
 Here is the
 * [Video recording](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
@@ -51,7 +51,7 @@ Here is the
 ### RFDiffusion (10/11)
 This week we discuss RFDiffusion (Watson, et al., 2023), a diffusion denoising model based on RoseTTAFold to generate realistic protein protein backbones. Nick Randolf gives an overview of the method and we discuss the method details.
 
-* **De novo design of protein structure and function with RFdiffusion**
+* **[De novo design of protein structure and function with RFdiffusion](https://doi.org/10.1038/s41586-023-06415-8)**
 Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, Andrew J. Borst, Robert J. Ragotte, Lukas F. Milles, Basile I. M. Wicky, Nikita Hanikel, Samuel J. Pellock, Alexis Courbet, William Sheffler, Jue Wang, Preetham Venkatesh, Isaac Sappington, Susana Vázquez Torres, Anna Lauko, Valentin De Bortoli, Emile Mathieu, Sergey Ovchinnikov, Regina Barzilay, Tommi S. Jaakkola, Frank DiMaio, Minkyung Baek & David Baker
 Nature 620, 1089–1100 (2023).
 DOI: 10.1038/s41586-023-06415-8
@@ -73,9 +73,10 @@ structure prediction module), and measure the designability, diversity, and nove
 to direclty compare with RFDiffusion because at the time RFDiffusion code was not yet released, it appears to be not quite as performant, but
 significantly faster and the model is only 1/4 the size.
 
-* **SE(3) diffusion model with application to protein backbone generation**
+* **[SE(3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277)**
 Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola
-https://arxiv.org/abs/2302.02277
+DOI: 10.48550/arXiv.2302.02277
+
 
 Here are
 
