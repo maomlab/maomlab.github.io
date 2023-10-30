@@ -26,14 +26,16 @@ Every-other-week series on Diffusion models
 
 ### Next Meeting:
 
-* 10/11/2023 11 am EDT (UTC-4)
+* 11/8/2023 11 am EDT (UTC-4)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* We'll discuss FolFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
+
 
 
 <br>
 <br>
-### RoseTTAFold All-Atom (9/27)
+### RoseTTAFold All-Atom (10/25)
 This week we Rohith Krishna, a graduate student in the Baker Lab at UW, joins us to present RoseTTAFold All-Atom (Krishna, et al., 2023).
 This work generalizes the RoseTTA Fold "three-track architecture" to handle non-protein molecules. They then use this
 for a range of different applications including re-training RFDiffusion to enable predicting ligand and cofactor binding.
