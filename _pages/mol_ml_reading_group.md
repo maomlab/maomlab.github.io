@@ -31,8 +31,6 @@ Every-other-week series on Diffusion models
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * We'll discuss FoldFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
 
-
-
 <br>
 <br>
 ### RoseTTAFold All-Atom (10/25)
@@ -47,6 +45,20 @@ doi: https://doi.org/10.1101/2023.10.09.561603
 
 Here is the
 * [Video recording](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
+
+<br>
+<br>
+### RFDiffusion (10/11)
+This week we discuss RFDiffusion (Watson, et al., 2023), a diffusion denoising model based on RoseTTAFold to generate realistic protein protein backbones. Nick Randolf gives an overview of the method and we discuss the method details.
+
+* **De novo design of protein structure and function with RFdiffusion**
+Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, Andrew J. Borst, Robert J. Ragotte, Lukas F. Milles, Basile I. M. Wicky, Nikita Hanikel, Samuel J. Pellock, Alexis Courbet, William Sheffler, Jue Wang, Preetham Venkatesh, Isaac Sappington, Susana Vázquez Torres, Anna Lauko, Valentin De Bortoli, Emile Mathieu, Sergey Ovchinnikov, Regina Barzilay, Tommi S. Jaakkola, Frank DiMaio, Minkyung Baek & David Baker
+Nature 620, 1089–1100 (2023).
+DOI: 10.1038/s41586-023-06415-8
+
+Here are the
+* [slides](https://bit.ly/46Terw4)
+* [Video recording](https://youtu.be/agiHi6hOE3Q)
 
 <br>
 <br>
