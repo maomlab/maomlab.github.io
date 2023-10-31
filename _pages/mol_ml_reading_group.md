@@ -26,7 +26,8 @@ Every-other-week series on Diffusion models
 
 ### Next Meeting:
 
-* 11/8/2023 10 am EDT (UTC-4)
+* 11/8/2023 11 am EDT (UTC-5)
+    * **Note that due to day-light savings time in the US, this will be one our later in the rest of the world**
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * We'll discuss FoldFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
