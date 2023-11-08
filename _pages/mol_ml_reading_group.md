@@ -22,15 +22,25 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion models
 
-<B> Please fill out the [poll to pick up-coming papers](https://forms.gle/b7pEY4aYrJ4RFdKe7):</B> 
-
 ### Next Meeting:
-
-* 11/8/2023 11 am EST (UTC-5)
-    * **Note that due to the end of day-light savings time in the US, this will be one hour later in the rest of the world**
+* 11/22/2023 11 am EST (UTC-5)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* We'll discuss FoldFlow: **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [(Bose et al., 2023)](https://doi.org/10.48550/arXiv.2310.02391)
+
+
+<br>
+<br>
+### FlowFold (11/08)
+This week Joey Bose, Tera Akhound-Sadegh, and colleagues join us to present FoldFlow (Bose et al., 2023), a conditional flow matching model for protein backbone generation. Using insights from differential geometry they improve the training of flows on the Riemannian manifold over a collection of protein backbone frames. They achieve SOTA performance on non-pretrained de novo backbone generation for a number of metrics.
+
+* **SE(3)-Stochastic Flow Matching for Protein Backbone Generation**
+Avishek Joey Bose, Tara Akhound-Sadegh, Kilian Fatras, Guillaume Huguet, Jarrid Rector-Brooks, Cheng-Hao Liu, Andrei Cristian Nica, Maksym Korablyov, Michael Bronstein, Alexander Tong
+DOI: 10.48550/arXiv.2310.16802
+
+Here is the:
+* [Paper](https://doi.org/10.48550/arXiv.2310.16802)
+* [Code](https://github.com/DreamFold/FoldFlow)
+* [Recording](https://youtu.be/JqKzTdhW7fY)
 
 <br>
 <br>
