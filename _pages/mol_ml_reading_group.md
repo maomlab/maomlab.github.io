@@ -31,7 +31,7 @@ Every-other-week series on Diffusion models
 <br>
 <br>
 ### FlowFold (11/08)
-This week Joey Bose, Tera Akhound-Sadegh, and colleagues join us to present FoldFlow (Bose et al., 2023), a conditional flow matching model for protein backbone generation. Using insights from differential geometry they improve the training of flows on the Riemannian manifold over a collection of protein backbone frames. They achieve SOTA performance on non-pretrained de novo backbone generation for a number of metrics.
+This week Joey Bose, Tara Akhound-Sadegh, and colleagues join us to present FoldFlow (Bose et al., 2023), a conditional flow matching model for protein backbone generation. Using insights from differential geometry they improve the training of flows on the Riemannian manifold over a collection of protein backbone frames. They achieve SOTA performance on non-pretrained de novo backbone generation for a number of metrics.
 
 * **SE(3)-Stochastic Flow Matching for Protein Backbone Generation**
 Avishek Joey Bose, Tara Akhound-Sadegh, Kilian Fatras, Guillaume Huguet, Jarrid Rector-Brooks, Cheng-Hao Liu, Andrei Cristian Nica, Maksym Korablyov, Michael Bronstein, Alexander Tong
