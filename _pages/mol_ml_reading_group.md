@@ -23,10 +23,23 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 Every-other-week series on Diffusion models
 
 ### Next Meeting:
-* 11/22/2023 11 am EST (UTC-5)
+* 12/6/2023 11 am EST (UTC-5)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Patrick Bryant](https://www.scilifelab.se/researchers/patrick-bryant/) from Frank Noé's lab at FU Berlin and starting his own group soon at Stockholm University/Science for Life Laboratory will join us to discuss [Umol](https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1), a deep learning based ligand docking method.
+
+<br>
+<br>
+### Umol (11/22)
+This week [Patrick Bryant](https://www.scilifelab.se/researchers/patrick-bryant/) from Frank Noé's lab at FU Berlin and starting his own group soon at Stockholm University/Science for Life Laboratory joined us to discuss [Umol](https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1), a deep learning based ligand docking method. He gives some interesting details about trying to train a variant of AlphaFold2 that considers small molecule atoms and balancing the more abundant constraints from the mulitple sequence alignment with the less abundant constraints for the ligand geometry.
+
+* **Structure prediction of protein-ligand complexes from sequence information with Umol**
+Patrick Bryant, Atharva Kelkar, Andrea Guljas, Cecilia Clementi, and Frank Noé
+DOI: 10.1101/2023.11.03.565471
+
+Here is the:
+* [Paper](https://doi.org/10.1101/2023.11.03.565471)
+* [Code](https://github.com/patrickbryant1/Umol)
+* [Collab Notebook](https://colab.research.google.com/github/patrickbryant1/Umol/blob/master/Umol.ipynb)
 
 <br>
 <br>
