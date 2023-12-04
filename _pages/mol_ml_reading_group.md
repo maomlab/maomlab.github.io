@@ -21,11 +21,21 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion models
-
-### Next Meeting:
-* 12/6/2023 11 am EST (UTC-5)
+* **Next meeting: 12/6/2023 11 am EST (UTC-5)**
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+<br>
+<br>
+### Next Meeting GENIE (12/6):
+We'll have Yeqing Lin from the [AlQuraishi lab](https://www.aqlab.io/) at Columbia join us to discuss [GENIE](https://github.com/aqlaboratory/genie), a diffusion based model for protein structure prediction that equivariantly diffuses over oriented residue clouds.
+* **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**
+Yeqing Lin, Mohammed AlQuraishi
+DOI: 10.48550/arXiv.2301.12485
+
+Here is the:
+* [Paper](https://arxiv.org/abs/2301.12485)
+* [Code](https://github.com/aqlaboratory/genie)
 
 <br>
 <br>
