@@ -21,14 +21,14 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion models
-* **Next meeting: 12/6/2023 11 am EST (UTC-5)**
+* **Next meeting: 12/20/2023 11 am EST (UTC-5)**
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 <br>
 <br>
-### Next Meeting GENIE (12/6):
-We'll have Yeqing Lin from the [AlQuraishi lab](https://www.aqlab.io/) at Columbia join us to discuss [GENIE](https://github.com/aqlaboratory/genie), a diffusion based model for protein structure prediction that equivariantly diffuses over oriented residue clouds.
+### GENIE (12/6/2023)
+This week Yeqing Lin from the [AlQuraishi lab](https://www.aqlab.io/) at Columbia joined us to discuss [Genie](https://github.com/aqlaboratory/genie), a diffusion based model for protein structure prediction that equivariantly diffuses over oriented residue clouds.
 * **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**
 Yeqing Lin, Mohammed AlQuraishi
 DOI: 10.48550/arXiv.2301.12485
@@ -36,10 +36,12 @@ DOI: 10.48550/arXiv.2301.12485
 Here is the:
 * [Paper](https://arxiv.org/abs/2301.12485)
 * [Code](https://github.com/aqlaboratory/genie)
+* [Talk Recording](https://youtu.be/91m1JA7zUNo)
+* [talk Slides](https://bit.ly/3uQq4WE) 
 
 <br>
 <br>
-### Umol (11/22)
+### Umol (11/22/2023)
 This week [Patrick Bryant](https://www.scilifelab.se/researchers/patrick-bryant/) from Frank Noé's lab at FU Berlin and starting his own group soon at Stockholm University/Science for Life Laboratory joined us to discuss [Umol](https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1), a deep learning based ligand docking method. He gives some interesting details about trying to train a variant of AlphaFold2 that considers small molecule atoms and balancing the more abundant constraints from the mulitple sequence alignment with the less abundant constraints for the ligand geometry.
 
 * **Structure prediction of protein-ligand complexes from sequence information with Umol**
@@ -50,10 +52,11 @@ Here is the:
 * [Paper](https://doi.org/10.1101/2023.11.03.565471)
 * [Code](https://github.com/patrickbryant1/Umol)
 * [Collab Notebook](https://colab.research.google.com/github/patrickbryant1/Umol/blob/master/Umol.ipynb)
+* [Talk Recording](https://youtu.be/flsNV36AtAU)
 
 <br>
 <br>
-### FlowFold (11/08)
+### FlowFold (11/08/2023)
 This week Joey Bose, Tara Akhound-Sadegh, and colleagues join us to present FoldFlow (Bose et al., 2023), a conditional flow matching model for protein backbone generation. Using insights from differential geometry they improve the training of flows on the Riemannian manifold over a collection of protein backbone frames. They achieve SOTA performance on non-pretrained de novo backbone generation for a number of metrics.
 
 * **SE(3)-Stochastic Flow Matching for Protein Backbone Generation**
@@ -67,7 +70,7 @@ Here is the:
 
 <br>
 <br>
-### RoseTTAFold All-Atom (10/25)
+### RoseTTAFold All-Atom (10/25/2023)
 This week we Rohith Krishna, a graduate student in the Baker Lab at UW, joins us to present RoseTTAFold All-Atom (Krishna, et al., 2023).
 This work generalizes the RoseTTA Fold "three-track architecture" to handle non-protein molecules. They then use this
 for a range of different applications including re-training RFDiffusion to enable predicting ligand and cofactor binding.
@@ -82,7 +85,7 @@ Here is the
 
 <br>
 <br>
-### RFDiffusion (10/11)
+### RFDiffusion (10/11/2023)
 This week we discuss RFDiffusion (Watson, et al., 2023), a diffusion denoising model based on RoseTTAFold to generate realistic protein protein backbones. Nick Randolf gives an overview of the method and we discuss the method details.
 
 * **[De novo design of protein structure and function with RFdiffusion](https://doi.org/10.1038/s41586-023-06415-8)**
@@ -96,7 +99,7 @@ Here are the
 
 <br>
 <br>
-### FrameDiff (9/27)
+### FrameDiff (9/27/2023)
 This week we dug into (Yim, et al., 2023) introducing FrameDiff, a new Diffusion model for protein backbone generation. In this work they
 develop the theory of diffusion/denoising machine learning over Remannian manifolds. As a key application they consider each backbone residue as
 a rigid frame similar to AlphaFold2. Since each frame has rotational and translational symmetry in 3D, the diffusion should be SE(3) equivariant.
@@ -119,7 +122,7 @@ Here are
 
 <br>
 <br>
-### Introduction to Diffusion Models (9/13)
+### Introduction to Diffusion Models (9/13/2023)
 Diffusion models is a Deep Learning architecture that has lead to breakthroughs in generating realistic structured data from images, text, and sound.
 Diffusion models have also been used to generate proteins and other biomolecular systems. In this first meeting, Nick gives an overview of the basics
 of the diffusion model architecture including how to efficiently add noisy data and efficiently train the models by predicting the noise, and generate
