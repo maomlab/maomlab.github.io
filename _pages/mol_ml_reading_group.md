@@ -21,9 +21,13 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion models
-* **Next meeting: 1/10/2024 11 am EST (UTC-5)**
+* **Next meeting: 1/17/2024 11 am EST (UTC-5)**
+* Deniz Akpinaroglu from the Kortemme Lab at UCSF will be discussing her recent work on Frame2seq in [Structure-conditioned masked language models for protein sequence design generalize beyond the native sequence space](https://www.biorxiv.org/content/10.1101/2023.12.15.571823) (Akpinaroglu et al 2023).
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+
+
 
 <br>
 <br>
