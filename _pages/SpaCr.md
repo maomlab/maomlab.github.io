@@ -10,7 +10,7 @@ permalink: /SpaCr/
 
 A collection of functions for generating measurement and classification data from microscopy images from high content imaging screens. Each notebook (.ipynb files) comes with an associated source code file (.py) which is downloaded when the notebook is run in Jupyter. Each notebook requires Jupyter and anaconda to be installed on the system (linux, OSX or windows). For notebooks that use torch (classification, finetune_cellpose, data_generation) a CUDA 11.8 compatible GPU is recommended.
 
-#### Github repo: https://github.com/EinarOlafsson/spacr
+#### [Github repo)[https://github.com/EinarOlafsson/spacr]
 
 
 ## Notebooks:
