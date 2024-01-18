@@ -54,7 +54,7 @@ Curate chemical and biological annotation datasets
 #### [Zr]({{ site.url }}{{ site.baseurl }}/Zr)
 Interact with the [https://zinc15.docking.org](https://zinc15.docking.org/), a webserver for commercially available compounds developed by the Irwin lab at UCSF.
 
-### [dock_campaign_template]({{ site.url }}{{ site.baseurl }}/dock_campaign_template)
+#### [dock_campaign_template]({{ site.url }}{{ site.baseurl }}/dock_campaign_template)
 Prepare and manage a UCSF Dock campaign using an opinionated organization
 
 #### [posteRa]({{ site.url }}{{ site.baseurl }}/posteRa)
@@ -65,3 +65,6 @@ Interact with the [https://sea16.docking.org](https://sea16.docking.org/), a web
 
 #### [Bethany]({{ site.url }}{{ site.baseurl }}/Bethay)
 Build and analyze multiple sequence alignments, phylogentic trees, and ancetral gene-reconstructions
+
+#### [SpaCr]({{ site.url }}{{ site.baseurl }}/SpaCr)
+A notebook based pipeline for the spatial phenotype analysis of crisp screens
