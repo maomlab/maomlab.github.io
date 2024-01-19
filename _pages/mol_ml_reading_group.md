@@ -39,6 +39,7 @@ Here is the:
 * [paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571823)
 * [code](https://github.com/dakpinaroglu/Frame2seq)
 * [Talk Recording](https://youtu.be/fTcg3vdEPHU?si=GEYzeN9uu2mQgCFt)
+* [Slides](https://drive.google.com/file/d/1zN8mRIObKoMRfC2DIedm0KPy9uiI0Jc5/view?usp=drive_link)
 
 <br>
 <br>
