@@ -22,6 +22,8 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion and other molecular ML models
 * **Next meeting: 1/31/2024 11 am EST (UTC-5)**
+* [Sarah Alamdari](https://www.sarahalamdari.com/) a data scientist at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/biomedical-ml/) will present [**EvoDiff**](https://github.com/microsoft/evodiff)
+* [Protein generation with evolutionary diffusion: Sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673) (Alamdari et al., 2023)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
