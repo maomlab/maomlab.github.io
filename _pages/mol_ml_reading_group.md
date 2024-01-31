@@ -21,12 +21,24 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 1/31/2024 11 am EST (UTC-5)**
-* [Sarah Alamdari](https://www.sarahalamdari.com/) a data scientist at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/biomedical-ml/) will present [**EvoDiff**](https://github.com/microsoft/evodiff)
-* [Protein generation with evolutionary diffusion: Sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673) (Alamdari et al., 2023)
+* **Next meeting: 2/14/2024 11 am EST (UTC-5)**
+* Sidney Lisanza from the Baker Lab will join us to present **ProteinGenerator**
+* ["Joint Generation of Protein Sequence and Structure with RoseTTAFold Sequence Space Diffusion"](https://doi.org/10.1101/2023.05.08.539766) (Lisanza, et al., 2023)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+
+<br>
+<br>
+### EvoDiff (1/31/2024)
+This week [Sarah Alamdari](https://www.sarahalamdari.com/) a data scientist at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/biomedical-ml/) presented [**EvoDiff**](https://github.com/microsoft/evodiff)
+* **[Protein generation with evolutionary diffusion: Sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673)** Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex X. Lu, Nicolo Fusi1, Ava P. Amini, Kevin K. Yang DOI: 10.1101/2023.09.11.556673v1
+
+Here are the:
+* [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673)
+* [code](https://github.com/microsoft/evodiff)
+* [talk](https://youtu.be/QxjCqZVbSek?si=cHQyBRBDYvEHfUi0)
+* [slides](https://bit.ly/3Sn569D)
 
 
 <br>
@@ -37,7 +49,7 @@ This week Deniz Akpinaroglu from the Kortemme Lab at UCSF presented her recent w
 Deniz Akpinaroglu, Kosuke Seki, Amy Guo, Eleanor Zhu, Mark J. S. Kelly, Tanja Kortemme
 DOI: 10.1101/2023.12.15.571823
 
-Here is the:
+Here are the:
 * [paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571823)
 * [code](https://github.com/dakpinaroglu/Frame2seq)
 * [Talk Recording](https://youtu.be/fTcg3vdEPHU?si=GEYzeN9uu2mQgCFt)
