@@ -30,7 +30,7 @@ Every-other-week series on Diffusion and other molecular ML models
 <br>
 <br>
 ### ProteinGenerator (2/14/2024)
-This week [Sidney Lisanza] from the Baker Lab joined us to present [**ProteinGenerator**](https://github.com/RosettaCommons/protein_generator)
+This week [Sidney Lisanza](https://www.bakerlab.org/members-old/sidney-lisanza/) from the Baker Lab joined us to present [**ProteinGenerator**](https://github.com/RosettaCommons/protein_generator)
 * **["Joint Generation of Protein Sequence and Structure with RoseTTAFold Sequence Space Diffusion"](https://doi.org/10.1101/2023.05.08.539766)** Lisanza SL,  Gershon JM, Tipps S, Arnoldt L, Hendel S, Sims JN, Li X DOI: 10.1101/2023.05.08.539766
 
 Here are the:
