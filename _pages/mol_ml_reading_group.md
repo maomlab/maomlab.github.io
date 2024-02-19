@@ -21,12 +21,23 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 2/14/2024 11 am EST (UTC-5)**
-* Sidney Lisanza from the Baker Lab will join us to present **ProteinGenerator**
-* ["Joint Generation of Protein Sequence and Structure with RoseTTAFold Sequence Space Diffusion"](https://doi.org/10.1101/2023.05.08.539766) (Lisanza, et al., 2023)
+* **Next meeting: 2/28/2024 2-3 pm EST (UTC-5)** <= @@Note this week is at a different time than usual@@
+* Alex Chu from Po-Ssu Huang's lab will join us to discuss [**Protpardelle**](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+
+<br>
+<br>
+### ProteinGenerator (2/14/2024)
+This week [Sidney Lisanza] from the Baker Lab joined us to present [**ProteinGenerator**](https://github.com/RosettaCommons/protein_generator)
+* **["Joint Generation of Protein Sequence and Structure with RoseTTAFold Sequence Space Diffusion"](https://doi.org/10.1101/2023.05.08.539766)** Lisanza SL,  Gershon JM, Tipps S, Arnoldt L, Hendel S, Sims JN, Li X DOI: 10.1101/2023.05.08.539766
+
+Here are the:
+* [paper](https://www.biorxiv.org/content/10.1101/2023.05.08.539766v1)
+* [code](https://github.com/RosettaCommons/protein_generator)
+* [webapp](https://huggingface.co/spaces/merle/PROTEIN_GENERATOR)
+* [talk](https://youtu.be/T6zMqormGP0)
 
 <br>
 <br>
