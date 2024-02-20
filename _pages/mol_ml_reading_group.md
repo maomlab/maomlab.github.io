@@ -38,6 +38,7 @@ Here are the:
 * [code](https://github.com/RosettaCommons/protein_generator)
 * [webapp](https://huggingface.co/spaces/merle/PROTEIN_GENERATOR)
 * [talk](https://youtu.be/T6zMqormGP0)
+* [slides](https://bit.ly/ProteinGenerator)
 
 <br>
 <br>
