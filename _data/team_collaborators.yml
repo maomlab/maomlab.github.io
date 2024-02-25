@@ -12,3 +12,26 @@
   member1: <a href="https://www.linkedin.com/in/juliet-anku-92b33a16a/">Juliet Anku</a>
   member2: <a href="https://www.linkedin.com/in/jackson-rapala-3bb81a1b9/">Jackson Rapala</a>
   
+- name: <a href="https://sites.google.com/a/umich.edu/carrutherslab/home">Vern Carruthers Lab</a>
+  info: Toxoplasma gondii<br />Microbiology and Immunology UMich
+  number_member: 2
+  member1: <a href="https://medicine.umich.edu/dept/microbiology-immunology/einar-olafsson-phd">Einar Olafsson PhD</a>
+  member2: <a href="https://medicine.umich.edu/dept/microbiology-immunology/christophe-sebastien-arnold-phd">Christophe-Sebastien Arnold PhD</a>
+
+- name: <a href="https://elyssabmargolis.com/">Elyssa Margolis Lab</a>
+  info: Neuropharmacology of addiction and pain<br />Neurology UCSF
+  member_number: 1
+  member1: <a href="https://www.linkedin.com/in/waltergerman/">P. Walter German PhD</a>
+
+- name: <a href="https://medicine.umich.edu/dept/khri/faculty-labs/labs/duncan-laboratory">Keith Duncan Lab</a>
+  info: Hearing and ion channel electrophysiology<br />Otolaryngology-Head and Neck Surgery UMich
+  member_number: 0
+
+- name: <a href="http://ccc.chem.pitt.edu/wipf/">Peter Wipf Lab</a>
+  info: Medicinal chemistry<br />Chemistry University of Pittsburgh
+  number_member: 0
+
+- name: <a href="https://www.thestephensongroup.org/">Corey Stephenson Lab</a>
+  info: Photochemistry<br />Biochemistry and Molecular Biology UBC
+  number_members: 0
+  
