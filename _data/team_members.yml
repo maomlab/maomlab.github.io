@@ -36,5 +36,20 @@
   photo: yuxuans_headshot.png
   info: PhD Graduate Student Co-advised with <a href="https://welch-lab.github.io/">Welsh</a> lab (Bioinformatics)
   email: yuxuans@umich.edu
-  number_Educ: 0
+  number_educ: 0
+
+- name: Hai Pham
+  photo: haip_headshot.png
+  info: Rosetta Postbac Fellow
+  email: haipham8315@gmail.com
+  number_educ: 2
+  education2: BS Biophysics/Biochemistry and Psychology<br />University of Huston 
+  education1: Rosetta Intern <br /> (<a href="https://www.solab.org/home">Ovchinnikov</a> lab)
+
+- name: Haneul Park
+  photo: 
+  info: UMich Chemistry Major
+  email: hahaneul@umich.edu
+  
+
 
