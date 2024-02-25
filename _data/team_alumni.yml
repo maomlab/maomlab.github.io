@@ -9,6 +9,20 @@
   education4: Postdoc Maom Lab University of Michigan
   education5: <a href="https://scholar.google.ca/citations?user=oEHDAgMAAAAJ">Google Scholar</a> <a href="https://alxndrkalinin.github.io/">Homepage</a>
 
+- name: Renly HOU
+  photo: xinhaih_headshot.jpg
+  info: PhD Graduate Student (Bioinformatics)
+  email: xinhaih@umich.edu
+  number_educ: 2
+  education1: BS Statistics<br/>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
+  education2: MPhil Computer and Information Engineering<br/>Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
+
+- name: Madeline J. Martin
+  photo: mamadeli_headshot.png
+  info: Rosetta Postbac Fellow
+  email: mamadeli@umich.edu
+  number_educ: 1
+  education1: BS Biochemistry and Molecular Biology<br />Michigan State University
 
 
 
