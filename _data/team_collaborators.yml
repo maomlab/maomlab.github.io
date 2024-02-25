@@ -21,26 +21,10 @@
   member1: <a href="https://medicine.umich.edu/dept/microbiology-immunology/einar-olafsson-phd">Einar Olafsson PhD</a>
   member2: <a href="https://medicine.umich.edu/dept/microbiology-immunology/christophe-sebastien-arnold-phd">Christophe-Sebastien Arnold PhD</a>
 
-- name: <a href="https://elyssabmargolis.com/">Elyssa Margolis Lab</a>
-  research: Neuropharmacology of addiction and pain
-  affiliation: Neurology UCSF
-  member_number: 1
-  member1: <a href="https://www.linkedin.com/in/waltergerman/">P. Walter German PhD</a>
-
 - name: <a href="https://medicine.umich.edu/dept/khri/faculty-labs/labs/duncan-laboratory">Keith Duncan Lab</a>
   research: Hearing and ion channel electrophysiology
   affiliation: Otolaryngology-Head and Neck Surgery UMich
   member_number: 0
-
-- name: <a href="http://ccc.chem.pitt.edu/wipf/">Peter Wipf Lab</a>
-  research: Medicinal chemistry
-  affiliation: Chemistry University of Pittsburgh
-  number_member: 0
-
-- name: <a href="https://www.thestephensongroup.org/">Corey Stephenson Lab</a>
-  research: Photochemistry
-  affiliation: Biochemistry and Molecular Biology UBC
-  number_members: 0
   
 - name: <a href="https://sites.google.com/umich.edu/sztainlab">Terra Sztain Lab</a>
   research: Molecular simulations, drug discovery
@@ -65,11 +49,6 @@
   number_member: 1
   member1: <a href="https://www.linkedin.com/in/carmen-castillo-4b6065197/">Carmen Castillo</a>
 
-- name: <a href="https://graylab.jhu.edu/">Jeff Grey Lab</a>
-  research: Protein structure prediction and design
-  affiliation: Chemical & Biomolecular Engineering JHU
-  number_member: 0
-
 - name: <a href="https://truttmann.lab.medicine.umich.edu/">Mattias Truttman Lab</a>
   research: Nanobody design, neurodegenerative diseases
   affiliation: Molecular & Integrative Physiology UMich
@@ -80,3 +59,24 @@
   affiliation: Orthopaedic Surgery UMich
   number_member: 1
   member1: <a href="https://www.linkedin.com/in/leeann-flowers-hold/">LeeAnn Flowers</a>
+
+- name: <a href="https://elyssabmargolis.com/">Elyssa Margolis Lab</a>
+  research: Neuropharmacology of addiction and pain
+  affiliation: Neurology UCSF
+  member_number: 1
+  member1: <a href="https://www.linkedin.com/in/waltergerman/">P. Walter German PhD</a>
+
+- name: <a href="http://ccc.chem.pitt.edu/wipf/">Peter Wipf Lab</a>
+  research: Medicinal chemistry
+  affiliation: Chemistry University of Pittsburgh
+  number_member: 0
+
+- name: <a href="https://www.thestephensongroup.org/">Corey Stephenson Lab</a>
+  research: Photochemistry
+  affiliation: Biochemistry and Molecular Biology UBC
+  number_members: 0
+
+- name: <a href="https://graylab.jhu.edu/">Jeff Grey Lab</a>
+  research: Protein structure prediction and design
+  affiliation: Chemical & Biomolecular Engineering JHU
+  number_member: 0
