@@ -8,14 +8,6 @@
   education3: Postdoc Pharmaceutical Chemistry<br/>UC San Fancisco (<a href="https://bkslab.org/">Shoichet</a> Lab)
   education4: <a href="https://scholar.google.com/citations?user=AhiiuoIAAAAJ&hl=en">Google Scholar</a>
 
-- name: Renly HOU
-  photo: xinhaih_headshot.jpg
-  info: PhD Graduate Student (Bioinformatics)
-  email: xinhaih@umich.edu
-  number_educ: 2
-  education1: BS Statistics<br/>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
-  education2: MPhil Computer and Information Engineering<br/>Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
-
 - name: Jose Miguel I. Limcaoco
   photo: limcaoco_headshot_2022.jpg
   info: PhD Graduate Student (Bioinformatics)
@@ -24,12 +16,25 @@
   education1: BS Pharmaceutical Chemistry<br />UC Davis (<a href="https://siegel.ucdavis.edu/">Siegel</a> Lab)
   education2: Rosetta Postbac Fellow<br />UMich (Maom Lab)
 
-- name: Madeline J. Martin
-  photo: mamadeli_headshot.png
-  info: Rosetta Postbac Fellow
-  email: mamadeli@umich.edu
-  number_educ: 1
-  education1: BS Biochemistry and Molecular Biology<br />Michigan State University
+- name: Manasa Yadavalli
+  photo: ymanasa_headshot.jpeg
+  info: PhD Graduate Student (Bioinformatics)
+  email: ymanasa@umich.edu
+  number_educ: 2
+  education1: BS Biochemistry, minor in Biology <br />University of Washington Seattle
+  education2: Masters Binformatics <br />UMich (<a href="https://freddolino-lab.med.umich.edu/">Freddolino</a> lab)
 
+- name: Marissa Dolorfino
+  photo: mdolo_headshot.jpg
+  info: PhD Graduate Student (Bioinformatics)
+  email: mdolo@umich.edu
+  number_educ: 2
+  education1: BA Math/Chemistry <br >Kalamazoo College
+  education2: Rosetta Intern <br /> Vrije Universiteit Brussel (<a href="https://vorobievalab.sites.vib.be/en">Vorobieva</a> lab)
 
+- name: Yuxuan Song
+  photo: yuxuans_headshot.jpg
+  info: PhD Graduate Student Co-advised with <a href="https://welch-lab.github.io/">Welsh</a> lab (Bioinformatics)
+  email: yuxuans@umich.edu
+  number_Educ: 0
 
