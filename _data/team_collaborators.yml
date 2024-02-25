@@ -35,3 +35,34 @@
   info: Photochemistry<br />Biochemistry and Molecular Biology UBC
   number_members: 0
   
+- name: <a href="https://sites.google.com/umich.edu/sztainlab">Terra Sztain Lab</a>
+  info: Molecular simulations, drug discovery<br />Medicinal Chemistry UMich
+  number_member: 1
+  member1: <a href="https://www.linkedin.com/in/daniel-santos-perez-849172240/">Daniel Santos Perez</a>
+
+- name: <a href="https://welch-lab.github.io/">Josh Welsh Lab</a>
+  info: Single cell analysis<br />Computational Medicine & Bioinformatics UMich
+  number_member: 1
+  member1: <a href="https://medicine.umich.edu/dept/dcmb/yuxuan-song">Yuxuan Song</a>
+
+- name: <a href="https://freddolino-lab.med.umich.edu/">Lydia Freddolino Lab</a>
+  info: Gene function prediction, bacteria gene regulation<br />Biochemistry/DCMB Umich
+  number_member: 0
+
+- name: <a href="https://mkoutmos.wixsite.com/koutmoslab">Markos Koutmos</a>
+  info: Enzymology, RNA structure<br />Chemistry UMich
+  number_member: 1
+  member1: <a href="https://www.linkedin.com/in/carmen-castillo-4b6065197/">Carmen Castillo</a>
+
+- name: <a href="https://graylab.jhu.edu/">Jeff Grey Lab</a>
+  info: Protein structure prediction and design<br />Chemical & Biomolecular Engineering JHU
+  number_member: 0
+
+- name: <a href="https://truttmann.lab.medicine.umich.edu/">Mattias Truttman Lab</a>
+  info: Nanobody design, neurodegenerative diseases<br />Molecular & Integrative Physiology UMich
+  number_member: 0
+
+- name: <a href="https://killian.lab.medicine.umich.edu/">Killian-Abraham Lab</a>
+  info: Connective tissue development and disease<br />Orthopaedic Surgery UMich
+  number_member: 1
+  member1: <a href="https://www.linkedin.com/in/leeann-flowers-hold/">LeeAnn Flowers</a>
