@@ -135,7 +135,7 @@ permalink: /team/
 
 ## Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.team_collaborators %}
+{% for lab in site.data.team_collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -144,9 +144,42 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <h4>{{ lab.name }}</h4>
+  <i>{{ lab.info }}</i>
   <ul style="overflow: hidden">
+
+
+ {% if lab.number_member == 1 %}
+  <li> {{ lab.member1 }} </li>
+  {% endif %}
+
+  {% if lab.number_member == 2 %}
+  <li> {{ lab.member1 }} </li>
+  <li> {{ lab.member2 }} </li>
+  {% endif %}
+
+  {% if lab.number_member == 3 %}
+  <li> {{ lab.member1 }} </li>
+  <li> {{ lab.member2 }} </li>
+  <li> {{ lab.member3 }} </li>
+  {% endif %}
+
+  {% if lab.number_member == 4 %}
+  <li> {{ lab.member1 }} </li>
+  <li> {{ lab.member2 }} </li>
+  <li> {{ lab.member3 }} </li>
+  <li> {{ lab.member4 }} </li>
+  {% endif %}
+
+  {% if lab.number_member == 5 %}
+  <li> {{ lab.member1 }} </li>
+  <li> {{ lab.member2 }} </li>
+  <li> {{ lab.member3 }} </li>
+  <li> {{ lab.member4 }} </li>
+  <li> {{ lab.member5 }} </li>
+  {% endif %}
+
+
 
   </ul>
 </div>
