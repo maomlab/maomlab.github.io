@@ -81,6 +81,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <h4>{{ member.year }}</h4>
   <ul style="overflow: hidden">
 
   {% if member.number_trainee == 1 %}
