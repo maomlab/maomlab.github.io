@@ -123,6 +123,16 @@ permalink: /team/
   <li> {{ member.trainee6 }} </li>
   {% endif %}
 
+  {% if member.number_trainee == 7 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  <li> {{ member.trainee3 }} </li>
+  <li> {{ member.trainee4 }} </li>
+  <li> {{ member.trainee5 }} </li>
+  <li> {{ member.trainee6 }} </li>
+  <li> {{ member.trainee7 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
