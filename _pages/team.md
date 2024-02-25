@@ -145,7 +145,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ lab.name }}</h4>
-  {{ lab.research }}
+  {{ lab.research }}<br/>
   <i>{{ lab.affiliation }}</i>
   <ul style="overflow: hidden">
 
