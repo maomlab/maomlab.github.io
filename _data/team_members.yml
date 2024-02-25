@@ -10,7 +10,7 @@
 
 - name: Jose Miguel I. Limcaoco
   photo: limcaoco_headshot_2022.jpg
-  info: PhD Graduate Student (Bioinformatics)
+  info: PhD Graduate Student DCMB
   email: limcaoco@umich.edu
   number_educ: 2
   education1: BS Pharmaceutical Chemistry<br />UC Davis (<a href="https://siegel.ucdavis.edu/">Siegel</a> Lab)
@@ -18,7 +18,7 @@
 
 - name: Manasa Yadavalli
   photo: ymanasa_headshot.jpeg
-  info: PhD Graduate Student (Bioinformatics)
+  info: PhD Graduate Student DCMB
   email: ymanasa@umich.edu
   number_educ: 2
   education1: BS Biochemistry, minor in Biology <br />University of Washington Seattle
@@ -26,7 +26,7 @@
 
 - name: Marissa Dolorfino
   photo: mdolo_headshot.jpg
-  info: PhD Graduate Student (Bioinformatics)
+  info: PhD Graduate Student DCMB
   email: mdolo@umich.edu
   number_educ: 2
   education1: BA Math/Chemistry <br >Kalamazoo College
@@ -34,7 +34,7 @@
 
 - name: Yuxuan Song
   photo: yuxuans_headshot.png
-  info: PhD Graduate Student Co-advised with <a href="https://welch-lab.github.io/">Welsh</a> lab (Bioinformatics)
+  info: PhD Graduate Student DCMB<br/>Co-advised with <a href="https://welch-lab.github.io/">Welsh lab</a> 
   email: yuxuans@umich.edu
   number_educ: 0
 
