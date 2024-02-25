@@ -99,7 +99,7 @@ permalink: /team/
   <li> {{ member.trainee3 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 4 %}
+  {% if member.number_trainee == 4 %}
   <li> {{ member.trainee1 }} </li>
   <li> {{ member.trainee2 }} </li>
   <li> {{ member.trainee3 }} </li>
