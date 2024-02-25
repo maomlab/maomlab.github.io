@@ -1,5 +1,6 @@
 - name: <a href="https://www.sextonlab.com/">Jonathan Sexton Lab</a>
-  info: Morphological profiling, drug discovery, liver injury<br />Internal Medicine & Medicinal Chemistry UMich
+  research: Morphological profiling, drug discovery, liver injury
+  affiliation: Internal Medicine & Medicinal Chemistry UMich
   number_member: 4
   member1: <a href="https://www.linkedin.com/in/ben-halligan-42bb02103/">Ben Halligan</a>
   member2: <a href="https://www.linkedin.com/in/jesse-wotring-ph-d-8b0577164/">Jesse Wotring PhD</a>
@@ -7,59 +8,71 @@
   member4: <a href="https://mctp.path.med.umich.edu/phd-program/mcp-students">Neil Zhou</a>
 
 - name: <a href="https://omeara.lab.medicine.umich.edu/">Teresa O'Meara Lab</a>
-  info: Fungal Pathogenesis<br />Microbiology and Immunology UMich
+  research: Fungal Pathogenesis
+  affiliation: Microbiology and Immunology UMich
   number_member: 2
   member1: <a href="https://www.linkedin.com/in/juliet-anku-92b33a16a/">Juliet Anku</a>
   member2: <a href="https://www.linkedin.com/in/jackson-rapala-3bb81a1b9/">Jackson Rapala</a>
   
 - name: <a href="https://sites.google.com/a/umich.edu/carrutherslab/home">Vern Carruthers Lab</a>
-  info: Toxoplasma gondii<br />Microbiology and Immunology UMich
+  research: Toxoplasma gondii
+  affiliation: Microbiology and Immunology UMich
   number_member: 2
   member1: <a href="https://medicine.umich.edu/dept/microbiology-immunology/einar-olafsson-phd">Einar Olafsson PhD</a>
   member2: <a href="https://medicine.umich.edu/dept/microbiology-immunology/christophe-sebastien-arnold-phd">Christophe-Sebastien Arnold PhD</a>
 
 - name: <a href="https://elyssabmargolis.com/">Elyssa Margolis Lab</a>
-  info: Neuropharmacology of addiction and pain<br />Neurology UCSF
+  research: Neuropharmacology of addiction and pain
+  affiliation: Neurology UCSF
   member_number: 1
   member1: <a href="https://www.linkedin.com/in/waltergerman/">P. Walter German PhD</a>
 
 - name: <a href="https://medicine.umich.edu/dept/khri/faculty-labs/labs/duncan-laboratory">Keith Duncan Lab</a>
-  info: Hearing and ion channel electrophysiology<br />Otolaryngology-Head and Neck Surgery UMich
+  research: Hearing and ion channel electrophysiology
+  affiliation: Otolaryngology-Head and Neck Surgery UMich
   member_number: 0
 
 - name: <a href="http://ccc.chem.pitt.edu/wipf/">Peter Wipf Lab</a>
-  info: Medicinal chemistry<br />Chemistry University of Pittsburgh
+  research: Medicinal chemistry
+  affiliation: Chemistry University of Pittsburgh
   number_member: 0
 
 - name: <a href="https://www.thestephensongroup.org/">Corey Stephenson Lab</a>
-  info: Photochemistry<br />Biochemistry and Molecular Biology UBC
+  research: Photochemistry
+  affiliation: Biochemistry and Molecular Biology UBC
   number_members: 0
   
 - name: <a href="https://sites.google.com/umich.edu/sztainlab">Terra Sztain Lab</a>
-  info: Molecular simulations, drug discovery<br />Medicinal Chemistry UMich
+  research: Molecular simulations, drug discovery
+  affiliation: Medicinal Chemistry UMich
   number_member: 1
   member1: <a href="https://www.linkedin.com/in/daniel-santos-perez-849172240/">Daniel Santos Perez</a>
 
 - name: <a href="https://welch-lab.github.io/">Josh Welsh Lab</a>
-  info: Single cell analysis<br />Computational Medicine & Bioinformatics UMich
+  research: Single cell analysis
+  affiliation: DCMB UMich
   number_member: 1
   member1: <a href="https://medicine.umich.edu/dept/dcmb/yuxuan-song">Yuxuan Song</a>
 
-- name: <a href="https://freddolino-lab.med.umich.edu/">Lydia Freddolino Lab</a>
-  info: Gene function prediction, bacteria gene regulation<br />Biochemistry/DCMB Umich
+- research: <a href="https://freddolino-lab.med.umich.edu/">Lydia Freddolino Lab</a>
+  info: Gene function prediction, bacteria gene regulation
+  affiliation: Biochemistry/DCMB Umich
   number_member: 0
 
 - name: <a href="https://mkoutmos.wixsite.com/koutmoslab">Markos Koutmos</a>
-  info: Enzymology, RNA structure<br />Chemistry UMich
+  research: Enzymology, RNA structure
+  affiliation: Chemistry UMich
   number_member: 1
   member1: <a href="https://www.linkedin.com/in/carmen-castillo-4b6065197/">Carmen Castillo</a>
 
 - name: <a href="https://graylab.jhu.edu/">Jeff Grey Lab</a>
-  info: Protein structure prediction and design<br />Chemical & Biomolecular Engineering JHU
+  research: Protein structure prediction and design
+  affiliation: Chemical & Biomolecular Engineering JHU
   number_member: 0
 
 - name: <a href="https://truttmann.lab.medicine.umich.edu/">Mattias Truttman Lab</a>
-  info: Nanobody design, neurodegenerative diseases<br />Molecular & Integrative Physiology UMich
+  research: Nanobody design, neurodegenerative diseases
+  affiliation: Molecular & Integrative Physiology UMich
   number_member: 0
 
 - name: <a href="https://killian.lab.medicine.umich.edu/">Killian-Abraham Lab</a>
