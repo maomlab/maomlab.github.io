@@ -70,6 +70,76 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Rotation Trainees
+{% assign number_printed = 0 %}
+{% for member in site.data.rotation_trainees %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <ul style="overflow: hidden">
+
+  {% if member.number_trainee == 1 %}
+  <li> {{ member.trainee1 }} </li>
+  {% endif %}
+
+  {% if member.number_trainee == 2 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  {% endif %}
+
+  {% if member.number_trainee == 3 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  <li> {{ member.trainee3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  <li> {{ member.trainee3 }} </li>
+  <li> {{ member.trainee4 }} </li>
+  {% endif %}
+
+  {% if member.number_trainee == 5 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  <li> {{ member.trainee3 }} </li>
+  <li> {{ member.trainee4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  {% if member.number_trainee == 6 %}
+  <li> {{ member.trainee1 }} </li>
+  <li> {{ member.trainee2 }} </li>
+  <li> {{ member.trainee3 }} </li>
+  <li> {{ member.trainee4 }} </li>
+  <li> {{ member.trainee5 }} </li>
+  <li> {{ member.trainee6 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
 ## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.team_alumni %}
