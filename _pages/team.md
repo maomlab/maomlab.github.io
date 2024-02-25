@@ -72,7 +72,7 @@ permalink: /team/
 
 ## Rotation Trainees
 {% assign number_printed = 0 %}
-{% for member in site.data.rotation_trainees %}
+{% for member in site.data.team_rotation_trainees %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
