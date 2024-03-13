@@ -29,9 +29,20 @@ Every-other-week series on Diffusion and other molecular ML models
 
 <br>
 <br>
-### [**Protpardelle**]
-Alex Chu from Po-Ssu Huang's lab will join us to discuss [**Protpardelle**](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
-* **["An all-atom protein generative model"](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)**  Alexander E. Chu, Lucy Cheng, Gina El Nesr, Minkai Xu, Po-Ssu Huang, DOI: 10.1101/2023.05.24.542194
+### Keypoint Diffusion (3/13/2024)
+Ian Dunn from David Koes lab at the University of Pittsburgh joined us to present [**Keypoint Diffusion**](https://openreview.net/forum?id=Z4ia7s2tpV)
+* **[Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure](https://openreview.net/forum?id=Z4ia7s2tpV) Ian Dunn, David Koes, NeurIPS 2023 GenBio Workshop Spotlight
+
+Here are the:
+* [paper](https://openreview.net/forum?id=Z4ia7s2tpV)
+* [code](https://github.com/Dunni3/keypoint-diffusion)
+* [talk](https://youtu.be/MqDgxkKNRZE)
+
+<br>
+<br>
+### Protpardelle (2/28/2024)
+Alex Chu from Po-Ssu Huang's lab joined us to present [**Protpardelle**](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
+* **[An all-atom protein generative model](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)**  Alexander E. Chu, Lucy Cheng, Gina El Nesr, Minkai Xu, Po-Ssu Huang, DOI: 10.1101/2023.05.24.542194
 
 Here are the:
 * [paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
