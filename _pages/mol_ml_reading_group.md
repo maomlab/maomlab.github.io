@@ -37,6 +37,7 @@ Here are the:
 * [paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
 * [code](https://github.com/ProteinDesignLab/protpardelle)
 * [webapp](https://huggingface.co/spaces/ProteinDesignLab/protpardelle)
+* [talk](https://youtu.be/jy3Qr8g4SU8)
 
 
 <br>
