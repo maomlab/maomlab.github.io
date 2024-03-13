@@ -23,7 +23,7 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 Every-other-week series on Diffusion and other molecular ML models
 * **Next meeting: 3/13/2024 11-12 pm EDT (UTC-5)**
 * Ian Dunn from David Koes lab at Pitt will join us to discuss [**Keypoint Diffusion**](https://openreview.net/forum?id=Z4ia7s2tpV)
-* **["Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure"](https://openreview.net/forum?id=Z4ia7s2tpV) Ian Dunn, David Koes presented at the NeurIPS 2023 GenBio Workshop
+* ["Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure"](https://openreview.net/forum?id=Z4ia7s2tpV) Ian Dunn, David Koes presented at the NeurIPS 2023 GenBio Workshop
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
