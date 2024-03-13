@@ -21,10 +21,22 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 2/28/2024 2-3 pm EST (UTC-5)** <= <font color="purple">Note this week is at a different time than usual<font>
-* Alex Chu from Po-Ssu Huang's lab will join us to discuss [**Protpardelle**](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
+* **Next meeting: 3/13/2024 11-12 pm EDT (UTC-5)**
+* Ian Dunn from David Koes lab at Pitt will join us to discuss [**Keypoint Diffusion**](https://openreview.net/forum?id=Z4ia7s2tpV)
+* **["Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure"](https://openreview.net/forum?id=Z4ia7s2tpV) Ian Dunn, David Koes presented at the NeurIPS 2023 GenBio Workshop
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+<br>
+<br>
+### [**Protpardelle**]
+Alex Chu from Po-Ssu Huang's lab will join us to discuss [**Protpardelle**](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
+* **["An all-atom protein generative model"](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)**  Alexander E. Chu, Lucy Cheng, Gina El Nesr, Minkai Xu, Po-Ssu Huang, DOI: 10.1101/2023.05.24.542194
+
+Here are the:
+* [paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
+* [code](https://github.com/ProteinDesignLab/protpardelle)
+* [webapp](https://huggingface.co/spaces/ProteinDesignLab/protpardelle)
 
 
 <br>
