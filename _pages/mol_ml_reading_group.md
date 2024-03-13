@@ -29,7 +29,7 @@ Every-other-week series on Diffusion and other molecular ML models
 <br>
 ### Keypoint Diffusion (3/13/2024)
 Ian Dunn from David Koes lab at the University of Pittsburgh joined us to present [**Keypoint Diffusion**](https://openreview.net/forum?id=Z4ia7s2tpV)
-* **[Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure](https://openreview.net/forum?id=Z4ia7s2tpV) Ian Dunn, David Koes, NeurIPS 2023 GenBio Workshop Spotlight
+* **[Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure](https://openreview.net/forum?id=Z4ia7s2tpV)** Ian Dunn, David Koes, NeurIPS 2023 GenBio Workshop Spotlight
 
 Here are the:
 * [paper](https://openreview.net/forum?id=Z4ia7s2tpV)
