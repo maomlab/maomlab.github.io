@@ -201,3 +201,19 @@ Here are the
 
 * [Slides](https://docs.google.com/presentation/d/1mdrF-hdZnp1IH6wrDB69p9vmcVaYywGB/edit?usp=sharing&ouid=101024000819646318057&rtpof=true&sd=true)
 * [Video recording](https://www.youtube.com/watch?v=qtMRRVL4FYQ)
+
+<hr>
+## Other AI in Chemistry Lectures series
+[VantAI](https://www.vant.ai/)
+* Generative AI in Drug Discovery Lecture Series
+** [Website](https://www.genaiindrugdiscovery.com/), [YouTube Channel](https://www.youtube.com/playlist?list=PLAXC54QmQTfz5Pk_3yq9RfLaU0b13lWgF)
+
+[Valence Labs](https://www.youtube.com/@valence_labs/playlists)
+* M2D2: Molecular Modeling and Drug Discovery
+** [website](https://portal.valencelabs.com/m2d2), [YouTube channel](https://www.youtube.com/playlist?list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ)
+* 2023 Molecular Machine Learning Conference
+** [website](https://logconference.org/), [YouTube channel](https://www.youtube.com/playlist?list=PLoVkjhDgBOt1ipeEq5XPoWV9MbyLwwRl1)
+* Causality, Abstraction, Reasoning, & Extrapolation
+** [website](https://portal.valencelabs.com/care), [Youtube channel](https://www.youtube.com/playlist?list=PLoVkjhDgBOt3YFQC_8NIwJStWNbyd5Ms-)
+* Graphs and Geometry Reading Group
+** [website](https://portal.valencelabs.com/logg), [YouTube Channel](https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
