@@ -18,6 +18,9 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 * Matthew O'Meara an Assistant Professor at the University of Michigan
 (maom@umich.edu).
 
+### (Other AI in Chemistry Lecture Series)[#other-ai-in-chemistry-lectures-series]
+
+
 <BR><BR>
 ## Biomolecular Diffusion Models Series
 Every-other-week series on Diffusion and other molecular ML models
@@ -213,3 +216,4 @@ Here are the
 * 2023 Molecular Machine Learning Conference [website](https://logconference.org/), [YouTube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt1ipeEq5XPoWV9MbyLwwRl1)
 * Causality, Abstraction, Reasoning, & Extrapolation [website](https://portal.valencelabs.com/care), [Youtube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt3YFQC_8NIwJStWNbyd5Ms-)
 * Graphs and Geometry Reading Group [website](https://portal.valencelabs.com/logg), [YouTube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
+* Boston Protein Design and Modeling Club [website](https://www.bpdmc.org/), [YouTube](https://www.youtube.com/@bpdmc/videos)
