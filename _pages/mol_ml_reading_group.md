@@ -218,3 +218,5 @@ Here are the
 * Graphs and Geometry Reading Group [website](https://portal.valencelabs.com/logg), [YouTube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
 [Boston Protein Design and Modeling Club](https://www.bpdmc.org/)
 * [YouTube](https://www.youtube.com/@bpdmc/videos)
+[ML for protein engineering seminar series](https://www.ml4proteinengineering.com/)
+* [YouTube](https://www.youtube.com/@mlforproteinengineeringsem6420/videos)
