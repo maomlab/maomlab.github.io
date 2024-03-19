@@ -217,6 +217,8 @@ Here are the
 * Causality, Abstraction, Reasoning, & Extrapolation [website](https://portal.valencelabs.com/care), [Youtube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt3YFQC_8NIwJStWNbyd5Ms-)
 * Graphs and Geometry Reading Group [website](https://portal.valencelabs.com/logg), [YouTube](https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl)
 [Boston Protein Design and Modeling Club](https://www.bpdmc.org/)
+* BPDMC hosts a monthly meeting that begins with dinner, drinks, and an hour-long scientific program. We have seminars, tutorials and workshops, and the occasional moderated group discussion after a major breakthrough is announced. The scientific program is followed by an hour (or so) for additional discussion and networking.
 * [YouTube](https://www.youtube.com/@bpdmc/videos)
 [ML for protein engineering seminar series](https://www.ml4proteinengineering.com/)
+* A bi-weekly seminar series focused on recent work in machine learning for protein engineering. 
 * [YouTube](https://www.youtube.com/@mlforproteinengineeringsem6420/videos)
