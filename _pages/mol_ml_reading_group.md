@@ -18,7 +18,7 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 * Matthew O'Meara an Assistant Professor at the University of Michigan
 (maom@umich.edu).
 
-### (Other AI in Chemistry Lecture Series)[#other-ai-in-chemistry-lectures-series]
+**[Other AI in Chemistry Lecture Series](#other-ai-in-chemistry-lectures-series)**
 
 
 <BR><BR>
