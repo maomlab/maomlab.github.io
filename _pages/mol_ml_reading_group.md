@@ -22,9 +22,9 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 
 
 <BR><BR>
-## Biomolecular Diffusion Models Series
+## Biomolecular ML Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 3/27/2024 11-12 pm EDT (UTC-5)**
+* **Next meeting: 4/10/2024 11-12 pm EDT (UTC-5)**
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
