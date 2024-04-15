@@ -54,7 +54,7 @@ This talk draws from the following material
   * [Lecture](https://youtu.be/UhDtH7Ia9Ag?si=jNJ3Y3vwDyfM4DVC)
 * (Bose et al. 2023) [SE(3)-Stochastic Flow Matching for Protein Backbone Generation](https://doi.org/10.48550/arXiv.2310.02391)
   * [Lecture1](https://www.youtube.com/watch?v=t1Pqdl6RB2I), [Lecture2](https://youtu.be/JqKzTdhW7fY?si=lVMnSaLgdTo3-cK4)
-   [TorchCFM](https://github.com/atong01/conditional-flow-matching)
+  * [TorchCFM](https://github.com/atong01/conditional-flow-matching), a computational framework for flow matching in PyTorch
 * (Campbell et al. 2024)[Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design](https://doi.org/10.48550/arXiv.2402.04997)
 
 Here is the:
