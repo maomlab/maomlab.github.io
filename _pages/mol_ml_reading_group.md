@@ -31,7 +31,7 @@ Every-other-week series on Diffusion and other molecular ML models
 <br>
 <br>
 ### Joint Multi-domain Pre-training (4/10/2024)
-Mima Shoghi from joins us to discuss [Joint Multi-domain Pre-training](https://doi.org/10.48550/arXiv.2310.16802), exploring the feasability of leverating large-scale simulation data for chemical property and materials prediction tasks. Nima is currently a researcher at the  High Performance Computer Architecture Lab at Georgia Tech and did the work he presented while an AI resident at Meta Fundamental AI Research (FAIR).
+[Mima Shoghi](https://nima.sh/) from joins us to discuss [Joint Multi-domain Pre-training](https://doi.org/10.48550/arXiv.2310.16802), exploring the feasability of leverating large-scale simulation data for chemical property and materials prediction tasks. Nima is currently a researcher at the  High Performance Computer Architecture Lab at Georgia Tech and did the work he presented while an AI resident at Meta Fundamental AI Research (FAIR).
 
 * [**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction**](](https://doi.org/10.48550/arXiv.2310.16802) Nima Shoghi, Adeesh Kolluru, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, Brandon M. Wood. Accepted at ICLR23 arXiv preprint arXiv:2310.16802, 2023.
 
