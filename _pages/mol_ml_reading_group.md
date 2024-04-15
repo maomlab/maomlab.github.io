@@ -30,14 +30,47 @@ Every-other-week series on Diffusion and other molecular ML models
 
 <br>
 <br>
+### Joint Multi-domain Pre-training (4/10/2024)
+Mima Shoghi from joins us to discuss [Joint Multi-domain Pre-training](https://doi.org/10.48550/arXiv.2310.16802), exploring the feasability of leverating large-scale simulation data for chemical property and materials prediction tasks. Nima is currently a researcher at the  High Performance Computer Architecture Lab at Georgia Tech and did the work he presented while an AI resident at Meta Fundamental AI Research (FAIR).
+
+* [**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction**](](https://doi.org/10.48550/arXiv.2310.16802) Nima Shoghi, Adeesh Kolluru, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, Brandon M. Wood. Accepted at ICLR23 arXiv preprint arXiv:2310.16802, 2023.
+
+Here are the:
+* [Paper](https://doi.org/10.48550/arXiv.2310.16802)
+* [Talk](https://youtu.be/HCtBvtHO5Gk)
+* [Slides](https://nima.sh/jmp-molecularml-presentation/1)
+
+<br>
+<br>
+### Introduction to Flow Matching (3/27/2024)
+Matt O'Meara presented a chalk talk style introduction to **Flow Matching** a simplified generalization of denoising diffusion models. The work coveres
+background and basics of Flow Matching for molecular modeling.
+
+This talk draws from the following material 
+* (Lipman et al. 2022) [Flow Matching for Generative Modeling](https://doi.org/10.48550/arXiv.2210.02747)
+** [Lecture](https://youtu.be/5ZSwYogAxYg?si=TEzCycee-34JmrZl), [slides](https://drive.google.com/file/d/1Dkl_NEo1YpoDByxJLuNbqqA493-4NdCY/view)
+* (Albergo et al. 2023) [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions](https://doi.org/10.48550/arXiv.2303.08797)
+* (Tong et al. 2023) [Improving and generalizing flow-based generative models with minibatch optimal transport](https://doi.org/10.48550/arXiv.2302.00482)
+** [Lecture](https://youtu.be/UhDtH7Ia9Ag?si=jNJ3Y3vwDyfM4DVC)
+* (Bose et al. 2023) [SE(3)-Stochastic Flow Matching for Protein Backbone Generation](https://doi.org/10.48550/arXiv.2310.02391)
+** [Lecture1](https://www.youtube.com/watch?v=t1Pqdl6RB2I), [Lecture2](https://youtu.be/JqKzTdhW7fY?si=lVMnSaLgdTo3-cK4)
+** [TorchCFM](https://github.com/atong01/conditional-flow-matching)
+* (Campbell et al. 2024)[Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design](https://doi.org/10.48550/arXiv.2402.04997)
+
+Here is the:
+* [talk](https://youtu.be/EpuPamnggiQ)
+
+
+<br>
+<br>
 ### Keypoint Diffusion (3/13/2024)
 Ian Dunn from David Koes lab at the University of Pittsburgh joined us to present [**Keypoint Diffusion**](https://openreview.net/forum?id=Z4ia7s2tpV)
 * **[Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure](https://openreview.net/forum?id=Z4ia7s2tpV)** Ian Dunn, David Koes, NeurIPS 2023 GenBio Workshop Spotlight
 
 Here are the:
-* [paper](https://openreview.net/forum?id=Z4ia7s2tpV)
-* [code](https://github.com/Dunni3/keypoint-diffusion)
-* [talk](https://youtu.be/MqDgxkKNRZE)
+* [Paper](https://openreview.net/forum?id=Z4ia7s2tpV)
+* [Code](https://github.com/Dunni3/keypoint-diffusion)
+* [Talk](https://youtu.be/MqDgxkKNRZE)
 
 <br>
 <br>
@@ -46,10 +79,10 @@ Alex Chu from Po-Ssu Huang's lab joined us to present [**Protpardelle**](https:/
 * **[An all-atom protein generative model](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)**  Alexander E. Chu, Lucy Cheng, Gina El Nesr, Minkai Xu, Po-Ssu Huang, DOI: 10.1101/2023.05.24.542194
 
 Here are the:
-* [paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
-* [code](https://github.com/ProteinDesignLab/protpardelle)
-* [webapp](https://huggingface.co/spaces/ProteinDesignLab/protpardelle)
-* [talk](https://youtu.be/jy3Qr8g4SU8)
+* [Paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)
+* [Code](https://github.com/ProteinDesignLab/protpardelle)
+* [Webapp](https://huggingface.co/spaces/ProteinDesignLab/protpardelle)
+* [Talk](https://youtu.be/jy3Qr8g4SU8)
 
 
 <br>
@@ -59,11 +92,11 @@ This week [Sidney Lisanza](https://www.bakerlab.org/members-old/sidney-lisanza/)
 * **["Joint Generation of Protein Sequence and Structure with RoseTTAFold Sequence Space Diffusion"](https://doi.org/10.1101/2023.05.08.539766)** Lisanza SL,  Gershon JM, Tipps S, Arnoldt L, Hendel S, Sims JN, Li X DOI: 10.1101/2023.05.08.539766
 
 Here are the:
-* [paper](https://www.biorxiv.org/content/10.1101/2023.05.08.539766v1)
-* [code](https://github.com/RosettaCommons/protein_generator)
-* [webapp](https://huggingface.co/spaces/merle/PROTEIN_GENERATOR)
-* [talk](https://youtu.be/T6zMqormGP0)
-* [slides](https://bit.ly/ProteinGenerator)
+* [Paper](https://www.biorxiv.org/content/10.1101/2023.05.08.539766v1)
+* [Code](https://github.com/RosettaCommons/protein_generator)
+* [Webapp](https://huggingface.co/spaces/merle/PROTEIN_GENERATOR)
+* [Talk](https://youtu.be/T6zMqormGP0)
+* [Slides](https://bit.ly/ProteinGenerator)
 
 <br>
 <br>
@@ -72,10 +105,10 @@ This week [Sarah Alamdari](https://www.sarahalamdari.com/) a data scientist at [
 * **[Protein generation with evolutionary diffusion: Sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673)** Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex X. Lu, Nicolo Fusi1, Ava P. Amini, Kevin K. Yang DOI: 10.1101/2023.09.11.556673v1
 
 Here are the:
-* [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673)
-* [code](https://github.com/microsoft/evodiff)
-* [talk](https://youtu.be/QxjCqZVbSek?si=cHQyBRBDYvEHfUi0)
-* [slides](https://bit.ly/3Sn569D)
+* [Paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673)
+* [Code](https://github.com/microsoft/evodiff)
+* [Talk](https://youtu.be/QxjCqZVbSek?si=cHQyBRBDYvEHfUi0)
+* [Slides](https://bit.ly/3Sn569D)
 
 
 <br>
@@ -87,8 +120,8 @@ Deniz Akpinaroglu, Kosuke Seki, Amy Guo, Eleanor Zhu, Mark J. S. Kelly, Tanja Ko
 DOI: 10.1101/2023.12.15.571823
 
 Here are the:
-* [paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571823)
-* [code](https://github.com/dakpinaroglu/Frame2seq)
+* [Paper](https://www.biorxiv.org/content/10.1101/2023.12.15.571823)
+* [Code](https://github.com/dakpinaroglu/Frame2seq)
 * [Talk Recording](https://youtu.be/fTcg3vdEPHU?si=GEYzeN9uu2mQgCFt)
 * [Slides](https://drive.google.com/file/d/1zN8mRIObKoMRfC2DIedm0KPy9uiI0Jc5/view?usp=drive_link)
 
@@ -103,8 +136,8 @@ DOI: 10.48550/arXiv.2301.12485
 Here is the:
 * [Paper](https://arxiv.org/abs/2301.12485)
 * [Code](https://github.com/aqlaboratory/genie)
-* [Talk Recording](https://youtu.be/91m1JA7zUNo)
-* [talk Slides](https://bit.ly/3uQq4WE) 
+* [Talk](https://youtu.be/91m1JA7zUNo)
+* [Slides](https://bit.ly/3uQq4WE) 
 
 <br>
 <br>
@@ -119,7 +152,7 @@ Here is the:
 * [Paper](https://doi.org/10.1101/2023.11.03.565471)
 * [Code](https://github.com/patrickbryant1/Umol)
 * [Collab Notebook](https://colab.research.google.com/github/patrickbryant1/Umol/blob/master/Umol.ipynb)
-* [Talk Recording](https://youtu.be/flsNV36AtAU)
+* [Talk](https://youtu.be/flsNV36AtAU)
 
 <br>
 <br>
@@ -133,7 +166,7 @@ DOI: 10.48550/arXiv.2310.16802
 Here is the:
 * [Paper](https://doi.org/10.48550/arXiv.2310.16802)
 * [Code](https://github.com/DreamFold/FoldFlow)
-* [Recording](https://youtu.be/JqKzTdhW7fY)
+* [Talk](https://youtu.be/JqKzTdhW7fY)
 
 <br>
 <br>
@@ -148,7 +181,7 @@ Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Ind
 DOI: 10.1101/2023.10.09.561603
 
 Here is the
-* [Video recording](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
+* [Talk](https://youtu.be/PARZP6GWJ0w?si=2UJwSuhAw-8QCVjF)
 
 <br>
 <br>
