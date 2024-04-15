@@ -48,13 +48,13 @@ background and basics of Flow Matching for molecular modeling.
 
 This talk draws from the following material 
 * (Lipman et al. 2022) [Flow Matching for Generative Modeling](https://doi.org/10.48550/arXiv.2210.02747)
-** [Lecture](https://youtu.be/5ZSwYogAxYg?si=TEzCycee-34JmrZl), [slides](https://drive.google.com/file/d/1Dkl_NEo1YpoDByxJLuNbqqA493-4NdCY/view)
+  * [Lecture](https://youtu.be/5ZSwYogAxYg?si=TEzCycee-34JmrZl), [slides](https://drive.google.com/file/d/1Dkl_NEo1YpoDByxJLuNbqqA493-4NdCY/view)
 * (Albergo et al. 2023) [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions](https://doi.org/10.48550/arXiv.2303.08797)
 * (Tong et al. 2023) [Improving and generalizing flow-based generative models with minibatch optimal transport](https://doi.org/10.48550/arXiv.2302.00482)
-** [Lecture](https://youtu.be/UhDtH7Ia9Ag?si=jNJ3Y3vwDyfM4DVC)
+  * [Lecture](https://youtu.be/UhDtH7Ia9Ag?si=jNJ3Y3vwDyfM4DVC)
 * (Bose et al. 2023) [SE(3)-Stochastic Flow Matching for Protein Backbone Generation](https://doi.org/10.48550/arXiv.2310.02391)
-** [Lecture1](https://www.youtube.com/watch?v=t1Pqdl6RB2I), [Lecture2](https://youtu.be/JqKzTdhW7fY?si=lVMnSaLgdTo3-cK4)
-** [TorchCFM](https://github.com/atong01/conditional-flow-matching)
+  * [Lecture1](https://www.youtube.com/watch?v=t1Pqdl6RB2I), [Lecture2](https://youtu.be/JqKzTdhW7fY?si=lVMnSaLgdTo3-cK4)
+   [TorchCFM](https://github.com/atong01/conditional-flow-matching)
 * (Campbell et al. 2024)[Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design](https://doi.org/10.48550/arXiv.2402.04997)
 
 Here is the:
