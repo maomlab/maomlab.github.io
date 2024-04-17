@@ -40,12 +40,20 @@
 
 - name: Hai Pham
   photo: haip_headshot.png
-  info: Rosetta Postbac Fellow<br />(he/him)
+  info: Rosetta Postbac Fellow 2023/24<br />(he/him)
   email: haipham8315@gmail.com
   number_educ: 2
-  education2: BS Biophysics/Biochemistry and Psychology<br />University of Huston 
-  education1: Rosetta Intern <br /> (<a href="https://www.solab.org/home">Ovchinnikov</a> lab)
+  education1: BS Biophysics/Biochemistry and Psychology<br />University of Huston 
+  education2: Rosetta Intern <br /> (<a href="https://www.solab.org/home">Ovchinnikov</a> lab)
 
+- name: Susie Nguyen
+  photo: snguyen_headshot.jpg
+  info: ROsetta Postbac Fellow 2024/25<br />(she/her)
+  email: susienguyen1018@gmail.com
+  number_educ: 2
+  education1: BS Computer Engineering, minor Physics and CS<br >Chico State, CA
+  education2: REU Microelectronics and Sensor Systems <br >University of Tennessee, Knoxville
+  
 - name: Haneul Park
   photo: hahaneul_headshot.jpg
   info: UMich Chemistry Major<br />(she/her)
