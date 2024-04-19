@@ -83,6 +83,7 @@ Here are the:
 * [Code](https://github.com/ProteinDesignLab/protpardelle)
 * [Webapp](https://huggingface.co/spaces/ProteinDesignLab/protpardelle)
 * [Talk](https://youtu.be/jy3Qr8g4SU8)
+* [Slides](https://bit.ly/3xJq1xa)
 
 
 <br>
