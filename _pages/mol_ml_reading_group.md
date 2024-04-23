@@ -24,7 +24,7 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular ML Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 4/24/2024 10-11 pm EDT (UTC-4)** <= <div style="color:red;"> 1-hour earlier than normal!</div>
+* **Next meeting: 4/24/2024 10-11 pm EDT (UTC-4)** <= <span style="color:red;"> 1-hour earlier than normal!</span>
 * [Yuxuan Song](https://yuxuansong.com/) from the Institute for Artificial Industry Research at Tsinghua University, advised by Prof. Weiying Ma will present:
 * **EquiFM** [Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation](https://arxiv.org/abs/2312.07168)
 
