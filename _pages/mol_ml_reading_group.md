@@ -24,19 +24,27 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular ML Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 4/24/2024 10-11 pm EDT (UTC-4)** <= <span style="color:red;"> 1-hour earlier than normal!</span>
-* [Yuxuan Song](https://yuxuansong.com/) from the Institute for Artificial Industry Research at Tsinghua University, advised by Prof. Weiying Ma will present:
-* **EquiFM** [Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation](https://arxiv.org/abs/2312.07168)
-
+* **Next meeting: 5/08/2024 11-12 pm EDT (UTC-5)**
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+<br>
+<br>
+### EquiFM (4/24/2024)
+[Yuxuan Song](https://yuxuansong.com/) from the Institute for Artificial Industry Research at Tsinghua University joins us to discuss [EquiFM](https://arxiv.org/abs/2312.07168), a method to generate molecules using flow matching. In comparison to diffusion/denoising score matching, which requires simulating the diffusion process, in their method they use quivariant optimial transport to rapidly generate trajectories between samples from an easy to sample prior distribution and samples from a target distribution. By using equivariance, they are able to make learning objective more stable than diffusion score matching, and straighter straighter than typical linear interpolation-based flow matching.
 
+* [**Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**](https://arxiv.org/abs/2312.07168) Yuxuan Song, Jingjing Gong, Minkai Xu, Ziyao Cao, Yanyan Lan, Stefano Ermon, Hao Zhou, Wei-Ying Ma, NeurIPS2023 
+
+Here are the:
+* [Paper](https://arxiv.org/abs/2312.07168)
+* [NeurIPS2023 Poster](https://neurips.cc/virtual/2023/poster/70795)
+* [Talk](https://youtu.be/-SRj46WsqxU)
+* [Code](https://github.com/AlgoMole/MolFM)
 
 <br>
 <br>
 ### Joint Multi-domain Pre-training (4/10/2024)
-[Nima Shoghi](https://nima.sh/) from joins us to discuss [Joint Multi-domain Pre-training](https://doi.org/10.48550/arXiv.2310.16802), exploring the feasability of leverating large-scale simulation data for chemical property and materials prediction tasks. Nima is currently a researcher at the  High Performance Computer Architecture Lab at Georgia Tech and did the work he presented while an AI resident at Meta Fundamental AI Research (FAIR).
+[Nima Shoghi](https://nima.sh/) joins us to discuss [Joint Multi-domain Pre-training](https://doi.org/10.48550/arXiv.2310.16802), exploring the feasability of leverating large-scale simulation data for chemical property and materials prediction tasks. Nima is currently a researcher at the  High Performance Computer Architecture Lab at Georgia Tech and did the work he presented while an AI resident at Meta Fundamental AI Research (FAIR).
 
 * [**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction**](https://doi.org/10.48550/arXiv.2310.16802) Nima Shoghi, Adeesh Kolluru, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, Brandon M. Wood. Accepted at ICLR23 arXiv preprint arXiv:2310.16802, 2023.
 
