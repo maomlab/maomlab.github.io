@@ -39,7 +39,9 @@ Here are the:
 * [Paper](https://arxiv.org/abs/2312.07168)
 * [NeurIPS2023 Poster](https://neurips.cc/virtual/2023/poster/70795)
 * [Talk](https://youtu.be/-SRj46WsqxU)
+* [Slides](https://docs.google.com/presentation/d/1WpxpC56WvD65UIWyKPxHpBALiIcm72hS/edit?usp=sharing&ouid=101024000819646318057&rtpof=true&sd=true)
 * [Code](https://github.com/AlgoMole/MolFM)
+
 
 <br>
 <br>
