@@ -24,7 +24,8 @@ candidate in the Kuhlman Lab at UNC Chapel Hill (nzrandol@unc.edu)
 <BR><BR>
 ## Biomolecular ML Models Series
 Every-other-week series on Diffusion and other molecular ML models
-* **Next meeting: 5/08/2024 11-12 pm EDT (UTC-4)**
+* **Next meeting: 6/12/2024 11-12 pm EDT (UTC-4)**
+* **Jiying Zhang** will present [SubGDiff](https://arxiv.org/abs/2405.05665) a molecular diffusion based model that takes into account molecular subgraphs
 * [Zoom link](https://zoom.us/j/99323876996?pwd=bkNwNWZXRmk1bktlTWdBNDRxdXlLdz09)
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmRiZmZjYzAwNGFiZWIyN2Y1ODJiNzU5YzRjMjk4ZGY4MWI1YWE4NTg1MmQ4YWY1NTc3OGYwMzdiNWM5MTEwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
