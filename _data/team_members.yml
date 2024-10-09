@@ -22,7 +22,7 @@
   email: ymanasa@umich.edu
   number_educ: 2
   education1: BS Biochemistry, minor in Biology <br />University of Washington Seattle
-  education2: Masters Binformatics <br />UMich (<a href="https://freddolino-lab.med.umich.edu/">Freddolino</a> lab)
+  education2: Masters Binformatics<br />UMich (<a href="https://freddolino-lab.med.umich.edu/">Freddolino</a> lab)
 
 - name: Marissa Dolorfino
   photo: mdolo_headshot.jpg
@@ -31,6 +31,14 @@
   number_educ: 2
   education1: BA Math/Chemistry <br >Kalamazoo College
   education2: Rosetta Intern <br /> Vrije Universiteit Brussel (<a href="https://vorobievalab.sites.vib.be/en">Vorobieva</a> lab)
+
+- name: Chris Patsalis
+  photo: patsalis_headshot.jpg
+  info: PhD Graduate student DCMB<br />(he/him)
+  email: patsalis@umich.edu
+  number_educ: 2
+  education1: BS Biomed Lab Sciences <br />Michigan State University
+  education2: Masters Bioinformatics<br />UMich (<a href="https://www.michiganmedicine.org/profile/156/alla-karnovsky/">Karnovsky</a> lab)
 
 - name: Yuxuan Song
   photo: yuxuans_headshot.png
