@@ -339,7 +339,7 @@
   highlight: 0
   news2:
 
-  - title: "High-Content Screening to Identify Inhibitors of Dengue Virus Replication"
+- title: "High-Content Screening to Identify Inhibitors of Dengue Virus Replication"
   image:
   description:
   authors: Hoffstadt JG, Wotring JW, Porter S, Halligan BS, O'Meara MJ, Tai AW, Sexton JZ
@@ -349,7 +349,7 @@
   highlight: 0
   news2:
 
-  - title: "Predicting the Structural Impact of Human Alternative Splicing"
+- title: "Predicting the Structural Impact of Human Alternative Splicing"
   image:
   description:
   authors: Song Y, Zhang C, Omenn GS, O'Meara MJ, Welch JD
@@ -359,7 +359,7 @@
   highlight: 0
   news2:
 
-  - title: "A Human Liver Organoid Screening Platform for DILI Risk Prediction"
+- title: "A Human Liver Organoid Screening Platform for DILI Risk Prediction"
   image:
   description:
   authors: Zhang CJ, Meyer SR, O’Meara MJ, Huang S, Capeling MM, Ferrer-Torres D, Childs CJ, Spence JR, Fontana RJ, Sexton JZ
@@ -369,7 +369,7 @@
   highlight: 0
   news2:
 
-  - title: "The life and times of endogenous opioid peptides: Updated understanding of synthesis, spatiotemporal dynamics, and the clinical impact in alcohol use disorder"
+- title: "The life and times of endogenous opioid peptides: Updated understanding of synthesis, spatiotemporal dynamics, and the clinical impact in alcohol use disorder"
   image:
   description:
   authors: Margolis EB, Moulton MG, Lambeth PS, O'Meara MJ
@@ -379,7 +379,7 @@
   highlight: 0
   news2:
 
-  - title: "Machine Learning and Assay Development for Image-based Phenotypic Profiling of Drug Treatments"
+- title: "Machine Learning and Assay Development for Image-based Phenotypic Profiling of Drug Treatments"
   image:
   description:
   authors: Sexton JZ, Fursmidt R, O’Meara MJ, Omta W, Rao A, Egan DA, Haney SA
@@ -389,7 +389,7 @@
   highlight: 0
   news2:
 
-  - title: "Candida albicans selection for human commensalism results in substantial within-host diversity without decreasing fitness for invasive disease"
+- title: "Candida albicans selection for human commensalism results in substantial within-host diversity without decreasing fitness for invasive disease"
   image:
   description:
   authors: Anderson FM, Visser ND, Amses KR, Hodgins-Davis A, Weber AM, Metzner KM, McFadden MJ, Mills RE, O’Meara MJ, James TY, O’Meara TR
@@ -399,7 +399,7 @@
   highlight: 0
   news2:
   
-  - title: "Imaging-Based Screening Identifies Modulators of the eIF3 Translation Initiation Factor Complex in Candida albicans"
+- title: "Imaging-Based Screening Identifies Modulators of the eIF3 Translation Initiation Factor Complex in Candida albicans"
   image:
   description:
   authors: Metzner K, O’Meara MJ, Halligan B, Wotring JW, Sexton JZ, O’Meara TR
@@ -409,7 +409,7 @@
   highlight: 0
   news2:
   
-  - title: "LUMIC: Latent diffUsion for Multiplexed Images of Cells"
+- title: "LUMIC: Latent diffUsion for Multiplexed Images of Cells"
   image:
   description:
   authors: Hung AZ, Zhang CJ, Sexton JZ, O'Meara MJ, Welch JD
@@ -419,7 +419,7 @@
   highlight: 0
   news2:
   
-  - title: "CryptoCEN: A Co-Expression Network for Cryptococcus neoformans reveals novel proteins involved in DNA damage repair"
+- title: "CryptoCEN: A Co-Expression Network for Cryptococcus neoformans reveals novel proteins involved in DNA damage repair"
   image:
   description:
   authors: O’Meara MJ, Rapala JR, Nichols CB, Alexandre AC, Billmyre RB, Steenwyk JL, Alspaugh JA, O’Meara TR
