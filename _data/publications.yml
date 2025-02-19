@@ -292,9 +292,141 @@
 - title: "Structures of the σ2 receptor enable docking for bioactive ligand discovery"
   image:
   description:
-  authors: Assaf Alon, Jiankun Lyu, Joao M Braz, Tia A Tummino, Veronica Craik, Matthew J O’Meara, Chase M Webb, Dmytro S Radchenko, Yurii S Moroz, Xi-Ping Huang, Yongfeng Liu, Bryan L Roth, John J Irwin, Allan I Basbaum, Brian K Shoichet, Andrew C Kruse
+  authors: Alon A, Lyu J, Braz JM, Tummino TA, Craik V, O'Meara MJ, Webb CM, Radchenko DS, Moroz YS, Huang X, Liu Y, Roth BL, Irwin JJ, Basbaum AI, Shoichet BK, Kruse AC
   link:
     url: https://doi.org/10.1038/s41586-021-04175-x
-    display: Nat. (2021)
+    display: Nature (2021)
   highlight: 0
   news2:
+  
+- title: "Multiple ParA/MinD ATPases coordinate the positioning of disparate cargos in a bacterial cell"
+  image:
+  description:
+  authors: Pulianmackal LT, Limcaoco JMI, Ravi K, Yang S, Zhang J, Tran MK, O'Meara MJ, Vecchiarelli AG
+  link: 
+    url: https://doi.org/10.1038/s41467-023-39019-x
+    display: Nat. Commun. (2022)
+  highlight: 0
+  news2:
+
+- title: "Development of an automated screen for Kv7.2 potassium channels and discovery of a new agonist chemotype"
+  image:
+  description:
+  authors: Hernandez CC, Tarfa RA, Limcaoco JMI, Liu R, Mondal P, Hill C, Duncan RK, Tzounopoulos T, Stephenson CR, O'Meara MJ, Wipf P
+  link:
+    url: https://doi.org/10.1016/j.bmcl.2022.128841
+    display: Bioorganic & Medicinal Chemistry Letters (2022)
+  highlight: 0
+  news2:
+
+- title: "In Vitro Evaluation and Mitigation of Niclosamide’s Liabilities as a COVID-19 Treatment"
+  image:
+  description:
+  authors: Wotring JW, McCarty SM, Shafiq K, Zhang CJ, Nguyen T, Meyer SR, Fursmidt R, Mirabelli C, Clasby MC, Wobus CE, O’Meara MJ, Sexton JZ
+  link:
+    url: https://doi.org/10.3390/vaccines10081284
+    display: Vaccines (2022)
+  highlight: 0
+  news2:
+
+- title: "Prioritizing virtual screening with interpretable interaction fingerprints"
+  image:
+  description:
+  authors: Fassio AV, Shub L, Ponzoni L, McKinley J, O’Meara MJ, Ferreira RS, Keiser MJ, Minardi RCM
+  link:
+    url: https://doi.org/10.1021/acs.jcim.2c00695
+    display: J. Chem. Inf. Model. (2022)
+  highlight: 0
+  news2:
+
+  - title: "High-Content Screening to Identify Inhibitors of Dengue Virus Replication"
+  image:
+  description:
+  authors: Hoffstadt JG, Wotring JW, Porter S, Halligan BS, O'Meara MJ, Tai AW, Sexton JZ
+  link:
+    url: https://doi.org/10.1101/2023.03.24.534108
+    display: bioArxiv (2023)
+  highlight: 0
+  news2:
+
+  - title: "Predicting the Structural Impact of Human Alternative Splicing"
+  image:
+  description:
+  authors: Song Y, Zhang C, Omenn GS, O'Meara MJ, Welch JD
+  link:
+    url: https://doi.org/10.1101/2023.12.21.572928
+    display: bioRxiv (2023)
+  highlight: 0
+  news2:
+
+  - title: "A Human Liver Organoid Screening Platform for DILI Risk Prediction"
+  image:
+  description:
+  authors: Zhang CJ, Meyer SR, O’Meara MJ, Huang S, Capeling MM, Ferrer-Torres D, Childs CJ, Spence JR, Fontana RJ, Sexton JZ
+  link:
+    url: https://doi.org/10.1016/j.jhep.2023.01.019
+    display: 	J. Hepatol. (2023)
+  highlight: 0
+  news2:
+
+  - title: "The life and times of endogenous opioid peptides: Updated understanding of synthesis, spatiotemporal dynamics, and the clinical impact in alcohol use disorder"
+  image:
+  description:
+  authors: Margolis EB, Moulton MG, Lambeth PS, O'Meara MJ
+  link:
+    url: https://doi.org/10.1016/j.neuropharm.2022.109376
+    display: Neuropharmacology (2023)
+  highlight: 0
+  news2:
+
+  - title: "Machine Learning and Assay Development for Image-based Phenotypic Profiling of Drug Treatments"
+  image:
+  description:
+  authors: Sexton JZ, Fursmidt R, O’Meara MJ, Omta W, Rao A, Egan DA, Haney SA
+  link:
+    url: https://www.ncbi.nlm.nih.gov/books/NBK589577/
+    display: Eli Lilly & Company and the National Center for Advancing Translational Sciences (2023)
+  highlight: 0
+  news2:
+
+  - title: "Candida albicans selection for human commensalism results in substantial within-host diversity without decreasing fitness for invasive disease"
+  image:
+  description:
+  authors: Anderson FM, Visser ND, Amses KR, Hodgins-Davis A, Weber AM, Metzner KM, McFadden MJ, Mills RE, O’Meara MJ, James TY, O’Meara TR
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3001822
+    display: PLoS Biology (2023)
+  highlight: 0
+  news2:
+  
+  - title: "Imaging-Based Screening Identifies Modulators of the eIF3 Translation Initiation Factor Complex in Candida albicans"
+  image:
+  description:
+  authors: Metzner K, O’Meara MJ, Halligan B, Wotring JW, Sexton JZ, O’Meara TR
+  link: 
+    url: https://doi.org/10.1128/aac.00503-23
+    display: 	Antimicrob. Agents Chemother. (2023)
+  highlight: 0
+  news2:
+  
+  - title: "LUMIC: Latent diffUsion for Multiplexed Images of Cells"
+  image:
+  description:
+  authors: Hung AZ, Zhang CJ, Sexton JZ, O'Meara MJ, Welch JD
+  link:
+    url: https://doi.org/10.1101/2024.11.06.622339
+    display: bioRxiv (2024)
+  highlight: 0
+  news2:
+  
+  - title: "CryptoCEN: A Co-Expression Network for Cryptococcus neoformans reveals novel proteins involved in DNA damage repair"
+  image:
+  description:
+  authors: O’Meara MJ, Rapala JR, Nichols CB, Alexandre AC, Billmyre RB, Steenwyk JL, Alspaugh JA, O’Meara TR
+  link:
+    url: https://doi.org/10.1371/journal.pgen.1011158
+    display: Plos Genetics (2024)
+  highlight: 0
+  news2:
+  
+  
