@@ -1,3 +1,11 @@
+- name: Hai Pham
+  photo: haip_headshot.png
+  info: Rosetta Postbac RaMP<br />(he/him)
+  email: haipham8315@gmail.com
+  number_educ: 2
+  education1: BS Biophysics/Biochemistry and Psychology<br />University of Huston
+  education2: Rosetta Intern <br /> (<a href="https://www.solab.org/home">Ovchinnikov</a> lab)
+
 - name: Alex Kalinin Ph.D.
   photo: akalinin_headshot.jpg
   info: Postdoctoral Associate (Carpenter-Singh Lab,  Broad Institute)
