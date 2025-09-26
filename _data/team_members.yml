@@ -55,20 +55,20 @@
   email: yuxuans@umich.edu
   number_educ: 0
 
-- name: Hai Pham
-  photo: haip_headshot.png
-  info: Rosetta Postbac RaMP<br />(he/him)
-  email: haipham8315@gmail.com
-  number_educ: 2
-  education1: BS Biophysics/Biochemistry and Psychology<br />University of Huston 
-  education2: Rosetta Intern <br /> (<a href="https://www.solab.org/home">Ovchinnikov</a> lab)
-
 - name: Varunika Savla
   photo: vmsavla_headshot.jpg
   info: Masters Graduate Student<br />(she/her)
   email: vmsavla@umich.edu
   number_educ: 1
   education1: BS Biochemistry/Chemical Biology<br />Wayne State University
+
+- name: Annika Backer
+  photo: akbacker_headshot.jpg
+  info: Masters Graduate Student<br />(she/her)
+  email: akbacker@umich.edu
+  number_educ: 2
+  education1: Biology and Statistics & Data Science<br />Smith College
+  education2: Postbaccalaureate IRTA Researcher (NIH NINDS)
 
 - name: Corleigh Forrester
   photo: corleighforr_headshot.jpg
