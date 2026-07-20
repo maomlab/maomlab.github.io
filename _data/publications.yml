@@ -428,5 +428,84 @@
     display: Plos Genetics (2024)
   highlight: 0
   news2:
-  
+
+- title: "cubic: CUDA-accelerated 3D BioImage"
+  image:
+  description:
+  authors: Kalinin AA, Carpenter AE, Singh S, O'Meara MJ
+  link:
+    url: https://doi.org/10.48550/arXiv.2510.14143
+    display: IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, arXiv (2025)
+  highlight: 0
+  news2:
+
+- title: "AMP-activated protein kinase (AMPK) is essential for tendon homeostasis and prevents premature senescence and ectopic calcification"
+  image:
+  description:
+  authors: Hold LA, Migotsky N, Lamia SN, Steltzer SS, Grossman S, Chen J, Bae S, Cordts P, Phillips T, O'Meara MJ, Davis C, Brooks SV, Akbar M, Millar NL, Killian ML, Abraham AC
+  link:
+    url: https://doi.org/10.1101/2025.01.31.635920
+    display: bioRxiv (2025)
+  highlight: 0
+  news2:
+
+- title: "Foreground-aware Virtual Staining for Accurate 3D Cell Morphological Profiling"
+  image:
+  description:
+  authors: Kalinin AA, Llanos P, Sommer TM, Sestini G, Hou X, Sexton JZ, Wan X, Dinov I, Athey BD, Rivron N, Carpenter AE, Cimini B, Singh S, O'Meara MJ
+  link:
+    url: https://doi.org/10.48550/arXiv.2507.05383
+    display: arXiv (2025)
+  highlight: 0
+  news2:
+
+- title: "Phenotypic Screening Coupled with AI-Driven Target Deconvolution Identifies α-Terthienyl as a Dual DPP-IV/HSD17β13 Modulator with Efficacy in a Mouse Model of MASLD"
+  image:
+  description:
+  authors: Hoegeman KM, Wotring JW, Fursmidt R, Gaetz J, Khalil EM, Selinger DW, Kovalenko I, Schultz TL, McCarty SM, O'Meara MJ, Clasby MC, Sexton JZ
+  link:
+    url: https://doi.org/10.64898/2025.12.12.693988
+    display: bioRxiv (2025)
+  highlight: 0
+  news2:
+
+- title: "A pooled image-based CRISPR screen identifies EAF1 as a T. gondii modulator of ESCRT subversion"
+  image:
+  description:
+  authors: Olafsson EB, Arnold C, Kellermeier JA, Rimple PA, Kaur H, Wang Y, Sexton JZ, Svärd S, Carruthers VB, O'Meara MJ
+  link:
+    url: https://doi.org/10.64898/2026.07.08.737057
+    display: bioRxiv (2025)
+  highlight: 0
+  news2:
+
+- title: "HSP-1-specific nanobodies alter chaperone function in vitro and in vivo"
+  image:
+  description:
+  authors: Urban ND, Gharat K, Mattiola ZJ, Scheutzow A, Klaiss A, Tabler S, Huffaker AW, Grootveld M, Skinner ME, Zheng W, O'Meara MJ, Kirstein J, Truttmann MC
+  link:
+    url: https://doi.org/10.1016/j.jbc.2026.111238
+    display: Journal of Biological Chemistry (2026)
+  highlight: 0
+  news2:
+
+- title: "Deep homology and design of proteasome chaperone proteins in Candidozyma auris"
+  image:
+  description:
+  authors: Rapala JR, Siddiq M, Wittkopp PJ, O'Meara MJ & O'Meara TR
+  link:
+    url: https://doi.org/10.1038/s41467-026-71206-4
+    display: Nature Communications (2026)
+  highlight: 0
+  news2:
+
+- title: "Assessing the Generalizability of Machine Learning and Physics-Based Methods with DNA-Encoded Libraries"
+  image:
+  description:
+  authors: Dolorfino M, Perez DS, Fu Y, Lin S, McCarty S, O'Meara MJ, Sztain T
+  link:
+    url: https://doi.org/10.64898/2026.04.18.719394
+    display: bioRxiv (2026)
+  highlight: 0
+  news2:
   
