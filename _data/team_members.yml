@@ -55,14 +55,6 @@
   email: yuxuans@umich.edu
   number_educ: 0
 
-- name: Annika Backer
-  photo: akbacker_headshot.jpg
-  info: Masters Graduate Student<br />(she/her)
-  email: akbacker@umich.edu
-  number_educ: 2
-  education1: Biology and Statistics & Data Science<br />Smith College
-  education2: Postbaccalaureate IRTA Researcher (NIH NINDS)
-
 - name: Weiyang Zheng
   photo: zhengwe_headshot.jpg
   info: PhD Graduate Student DCMB<br />(he/him)
@@ -70,11 +62,20 @@
   number_educ: 1
   education1: BS Biology / BA Computer Science<br />Emory University
   educaiton2: Masters Bioinformatics<br />UMich
-  
+
+- name: Annika Backer
+  photo: akbacker_headshot.jpg
+  info: Masters Bioinformatics DCMB<br />(she/her)
+  email: akbacker@umich.edu
+  number_educ: 2
+  education1: Biology and Statistics & Data Science<br />Smith College
+  education2: Postbaccalaureate IRTA Researcher (NIH NINDS)
+
 - name: Haneul Park
   photo: hahaneul_headshot.jpg
-  info: UMich Chemistry Major<br />(she/her)
+  info: Masters Bioinformatics DCMB<br />(she/her)
   email: hahaneul@umich.edu
+  education1 Chemistry<br />UMich
 
 - name: Fedor Khomchenko
   photo: fedorkh_headshot.jpg
