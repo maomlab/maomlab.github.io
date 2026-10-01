@@ -1,3 +1,13 @@
+- name: Corleigh Forrester
+  photo: corleighforr_headshot.jpg
+  info: Rosetta Postbac RaMP<br />(she/her)
+  email: corleighforr@gmail.com
+  number_educ: 4
+  education1: BS Bioinformatics & Computational Biology major<br />Mathematics minor<br />University of Maryland Baltimore County
+  education2: University System of Maryland LSAMP Summer Research Program
+  education3: CoMSEF Scholars REU Program University of Washington Seattle
+  education4: TECBio REU Program University of Pittsburgh
+
 - name: Varunika Savla
   photo: vmsavla_headshot.jpg
   info: Masters Graduate Student<br />(she/her)
