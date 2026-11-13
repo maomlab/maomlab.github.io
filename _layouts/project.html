@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<div id="projectid" class="col-sm-12">
+  <p><a href="{{ site.baseurl }}/projects/">&larr; All projects</a></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.tags %}<p class="project-tags">{% for t in page.tags %}<span class="label label-default">{{ t }}</span> {% endfor %}</p>{% endif %}
+
+  <div class="row">
+    <div class="col-sm-4">
+      {% if page.image %}
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research/{{ page.image }}" class="img-responsive" alt="{{ page.title }}" />
+      {% if page.image_caption %}<p class="project-caption"><i>{{ page.image_caption }}</i></p>{% endif %}
+      {% endif %}
+    </div>
+    <div class="col-sm-8">
+      <p class="project-summary">{{ page.summary }}</p>
+      {% if page.goal and page.goal != "" %}<blockquote><b>Central goal:</b> {{ page.goal }}</blockquote>{% endif %}
+      {% if page.challenge %}<p><b>Key challenge:</b> {{ page.challenge }}</p>{% endif %}
+    </div>
+  </div>
+
+  {{ content }}
+
+  {% if page.people and page.people.size > 0 %}
+  <h2>People</h2>
+  <div class="row project-people">
+    {% for person in page.people %}
+    {% assign m = site.data.team_members | where: "name", person.name | first %}
+    <div class="col-sm-3 col-xs-6 text-center project-person-col">
+      {% assign purl = person.url | default: m.homepage %}
+      {% if purl %}<a href="{{ purl }}">{% endif %}
+      {% if m.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ m.photo }}" class="img-responsive" alt="{{ person.name }}" />{% endif %}
+      <b>{{ person.name }}</b>
+      {% if purl %}</a>{% endif %}<br />
+      {% if person.role %}<i>{{ person.role }}</i>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.collaborators and page.collaborators.size > 0 %}
+  <h2>Collaborators</h2>
+  <ul class="project-collaborators">
+    {% for c in page.collaborators %}
+    <li>
+      <b>{% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}</b>{% if c.affiliation %}, {{ c.affiliation }}{% endif %}
+      {% if c.contribution %}<br /><span class="project-focus">{{ c.contribution }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% assign auto_pubs = "" | split: "," %}
+  {% if page.pub_match and page.pub_match != "" %}
+    {% assign auto_pubs = site.data.publications | where_exp: "p", "p.authors contains page.pub_match" %}
+  {% endif %}
+  {% if page.papers.size > 0 or auto_pubs.size > 0 %}
+  <h2>Papers</h2>
+  <ul>
+    {% for p in page.papers %}<li><pubtit>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</pubtit><br />{{ p.authors }}{% if p.venue %}<br /><i>{{ p.venue }}</i>{% endif %}</li>{% endfor %}
+    {% for p in auto_pubs %}<li><pubtit>{% if p.link.url %}<a href="{{ p.link.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</pubtit><br />{{ p.authors }}{% if p.link.display %}<br /><i>{{ p.link.display }}</i>{% endif %}</li>{% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.posters and page.posters.size > 0 %}
+  <h2>Posters &amp; Talks</h2>
+  <ul>{% for p in page.posters %}<li><pubtit>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</pubtit><br />{{ p.authors }}{% if p.event %}<br /><i>{{ p.event }}{% if p.year %} ({{ p.year }}){% endif %}</i>{% endif %}</li>{% endfor %}</ul>
+  {% endif %}
+
+  {% if page.links and page.links.size > 0 %}
+  <h2>Links</h2>
+  <ul>{% for l in page.links %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}</ul>
+  {% endif %}
+</div>
