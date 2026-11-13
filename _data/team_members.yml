@@ -45,9 +45,10 @@
   photo: patsalis_headshot.jpg
   info: PhD Graduate student DCMB<br />(he/him)
   email: patsalis@umich.edu
-  number_educ: 2
+  number_educ: 3
   education1: BS Biomed Lab Sciences <br />Michigan State University
   education2: Masters Bioinformatics<br />UMich (<a href="https://www.michiganmedicine.org/profile/156/alla-karnovsky/">Karnovsky</a> lab)
+  education3: <a href="https://scholar.google.com/citations?user=-aMYKQQAAAAJ&hl=en">Google Scholar</a>
 
 - name: Yuxuan Song
   photo: yuxuans_headshot.png
@@ -61,7 +62,7 @@
   email: zhengwe@umich.edu
   number_educ: 1
   education1: BS Biology / BA Computer Science<br />Emory University
-  educaiton2: Masters Bioinformatics<br />UMich
+  education2: Masters Bioinformatics<br />UMich
 
 - name: Annika Backer
   photo: akbacker_headshot.jpg
