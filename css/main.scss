@@ -99,3 +99,28 @@ firstp {
     margin-right: 30px;
 }
 
+
+/* Research projects */
+.project-card { overflow: hidden; }
+.project-card:hover { box-shadow: 2px 2px 8px #888888; }
+.project-card > a > img { margin: 0; width: 100%; height: 220px; object-fit: contain; object-position: center; background: #fff; padding: 8px; border-radius: 0; }
+.project-card h3 { margin-top: 0; }
+.project-goal { font-size: 14px; }
+.project-card-people { margin-top: 12px; }
+.project-person { display: inline-block; text-align: center; margin-right: 10px; }
+.project-person img { width: 44px; height: 44px; object-fit: cover; border-radius: 50%; margin: 0; display: block; margin: 0 auto 2px auto; }
+.project-tags .label { margin-right: 4px; }
+#projectid img { box-shadow: 2px 2px 5px #888888; margin: 16px 0 6px 0; }
+.project-summary { font-size: 18px; }
+.project-caption { font-size: 13px; }
+#projectid .project-people img { width: 110px; height: 110px; object-fit: cover; border-radius: 50%; margin: 8px auto 6px auto; }
+.project-people .col-sm-3 { margin-bottom: 16px; }
+.project-focus { font-size: 13px; margin-top: 6px; text-align: left; }
+.projects-row { display: flex; flex-wrap: wrap; }
+.projects-row:before, .projects-row:after { display: none; }
+.projects-row .project-card-wrap { display: flex; }
+.projects-row .project-card { width: 100%; display: flex; flex-direction: column; }
+.projects-row .project-card .panel-body { flex: 1; }
+@media (max-width: 767px) { .projects-row { display: block; } }
+.project-collaborators li { margin-bottom: 10px; }
+.project-collaborators .project-focus { text-align: left; }

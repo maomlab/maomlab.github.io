@@ -27,6 +27,11 @@ github:
 include:
   - _pages
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 sass:
   sass_dir: _sass
 
